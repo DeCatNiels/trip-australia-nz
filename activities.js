@@ -830,6 +830,257 @@ window.STOPS = [
     ]
   },
   {
+    "id": "cns",
+    "name": "Cairns + Great Barrier Reef",
+    "country": "Australia",
+    "note": "Tropical north Queensland",
+    "activities": [
+      {
+        "name": "Great Barrier Reef snorkel or dive",
+        "emoji": "🐠",
+        "description": "Full-day boat trip out to the outer reef: coral, turtles, reef sharks. Snorkellers and first-time divers welcome, no licence needed for an intro dive.",
+        "maps": "Great Barrier Reef",
+        "tags": [
+          "beach",
+          "nature",
+          "adventure"
+        ],
+        "wiki": "Great Barrier Reef",
+        "search": "Great Barrier Reef snorkeling",
+        "coords": [
+          -16.75,
+          146.1
+        ],
+        "pin": [
+          "File:Great Barrier Reef snorkeling 11.jpg"
+        ]
+      },
+      {
+        "name": "Daintree Rainforest and Cape Tribulation",
+        "emoji": "🌴",
+        "description": "The oldest rainforest on Earth, running right down to the beach. Croc-spotting cruise on the Daintree River.",
+        "maps": "Cape Tribulation, Queensland",
+        "tags": [
+          "nature",
+          "hike"
+        ],
+        "wiki": "Daintree Rainforest",
+        "search": "Daintree Rainforest Cape Tribulation",
+        "coords": [
+          -16.0833,
+          145.4667
+        ]
+      },
+      {
+        "name": "Kuranda Scenic Railway and Skyrail",
+        "emoji": "🚡",
+        "description": "Old train up through the rainforest gorge to the village of Kuranda, cable car back down over the treetops.",
+        "link": "https://www.skyrail.com.au/",
+        "maps": "Kuranda, Queensland",
+        "tags": [
+          "sights",
+          "nature"
+        ],
+        "wiki": "Kuranda Scenic Railway",
+        "search": "Kuranda Skyrail rainforest",
+        "coords": [
+          -16.8197,
+          145.6386
+        ]
+      }
+    ]
+  },
+  {
+    "id": "whit",
+    "name": "Whitsundays",
+    "country": "Australia",
+    "note": "Queensland, islands on the Great Barrier Reef",
+    "activities": [
+      {
+        "name": "Whitehaven Beach",
+        "emoji": "🏝️",
+        "description": "Pure white silica sand and turquoise water. Look down on the swirls of Hill Inlet from the lookout.",
+        "maps": "Whitehaven Beach",
+        "tags": [
+          "beach",
+          "sights"
+        ],
+        "wiki": "Whitehaven Beach",
+        "search": "Whitehaven Beach Hill Inlet",
+        "coords": [
+          -20.2823,
+          149.0379
+        ]
+      },
+      {
+        "name": "Sailing trip",
+        "emoji": "⛵",
+        "description": "Sleep on a sailing boat between the islands, with snorkel stops on the reef. Party boats exist too. Airlie Beach is the base and has the backpacker bars.",
+        "maps": "Airlie Beach, Queensland",
+        "tags": [
+          "beach",
+          "adventure",
+          "party"
+        ],
+        "wiki": "Whitsunday Islands",
+        "search": "Whitsundays sailing yacht",
+        "coords": [
+          -20.2675,
+          148.7167
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uluru",
+    "name": "Uluru",
+    "country": "Australia",
+    "note": "Northern Territory, the Red Centre",
+    "activities": [
+      {
+        "name": "Uluru at sunrise and sunset",
+        "emoji": "🪨",
+        "description": "The giant red rock changes colour as the sun moves. Walk the 10 km base track, with Aboriginal rock art along the way.",
+        "link": "https://parksaustralia.gov.au/uluru/",
+        "maps": "Uluru",
+        "tags": [
+          "sights",
+          "hike",
+          "nature"
+        ],
+        "wiki": "Uluru",
+        "search": "Uluru sunset",
+        "coords": [
+          -25.3444,
+          131.0369
+        ]
+      },
+      {
+        "name": "Kata Tjuta",
+        "emoji": "⛰️",
+        "description": "36 red domes near Uluru. The Valley of the Winds walk goes in between them.",
+        "maps": "Kata Tjuta",
+        "tags": [
+          "hike",
+          "nature"
+        ],
+        "wiki": "Kata Tjuta",
+        "search": "Kata Tjuta Valley of the Winds",
+        "coords": [
+          -25.3,
+          130.7333
+        ]
+      },
+      {
+        "name": "Field of Light",
+        "emoji": "✨",
+        "description": "Art installation of 50,000 solar-lit glass stems in the desert, with Uluru behind them.",
+        "link": "https://www.ayersrockresort.com.au/experiences/field-of-light-uluru",
+        "maps": "Field of Light Uluru",
+        "tags": [
+          "sights"
+        ],
+        "wiki": "Uluru",
+        "search": "Field of Light Uluru",
+        "coords": [
+          -25.2397,
+          130.9906
+        ],
+        "exclude": [
+          "File:ULURU.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "byron",
+    "name": "Byron Bay",
+    "country": "Australia",
+    "note": "New South Wales, far north coast",
+    "activities": [
+      {
+        "name": "Cape Byron lighthouse walk",
+        "emoji": "🗼",
+        "description": "Coastal walk to the most easterly point of mainland Australia. Dolphins year-round, whales in winter.",
+        "maps": "Cape Byron Lighthouse",
+        "tags": [
+          "hike",
+          "nature"
+        ],
+        "wiki": "Cape Byron Light",
+        "search": "Cape Byron lighthouse",
+        "coords": [
+          -28.6388,
+          153.6365
+        ]
+      },
+      {
+        "name": "Surf at The Pass",
+        "emoji": "🏄",
+        "description": "Long, gentle point-break waves, good for learning. Surf schools on Main Beach.",
+        "maps": "The Pass, Byron Bay",
+        "tags": [
+          "surf",
+          "beach"
+        ],
+        "wiki": "Byron Bay, New South Wales",
+        "search": "The Pass Byron Bay surf",
+        "coords": [
+          -28.6378,
+          153.6283
+        ]
+      },
+      {
+        "name": "Byron nightlife",
+        "emoji": "🍹",
+        "description": "Small town with a big backpacker scene: beach bars, live music and the Beach Hotel.",
+        "maps": "Beach Hotel Byron Bay",
+        "tags": [
+          "party",
+          "drinks"
+        ],
+        "wiki": "Byron Bay, New South Wales",
+        "search": "Byron Bay Beach Hotel",
+        "coords": [
+          -28.6409,
+          153.6127
+        ],
+        "exclude": [
+          "File:Bellevue On The Beach Suites Odos Kalimnou Rhodes 5 August 2025.jpg",
+          "File:Riviera Hotel and Bellevue On The Beach Suites Odos Kalimnou Rhodes 4 September 2023.jpg",
+          "File:Bellevue On The Beach Suites Signboard Odos Tilou Rhodes 1 September 2023.jpg",
+          "File:Venice Beach Suites and restaurants.jpg",
+          "File:Suite for two pianos (Beach).png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kgari",
+    "name": "K'gari (Fraser Island)",
+    "country": "Australia",
+    "note": "Queensland, the largest sand island in the world",
+    "activities": [
+      {
+        "name": "4WD trip on K'gari",
+        "emoji": "🚙",
+        "description": "Drive the 75-mile beach highway, swim in the freshwater Lake McKenzie, see the Maheno shipwreck. Wild dingoes roam the island.",
+        "maps": "Lake McKenzie, K'gari",
+        "tags": [
+          "nature",
+          "adventure",
+          "beach"
+        ],
+        "wiki": "K'gari",
+        "search": "Lake McKenzie Fraser Island",
+        "coords": [
+          -25.4468,
+          153.0544
+        ]
+      }
+    ]
+  },
+  {
     "id": "eat-au",
     "name": "Eat & drink: Australia",
     "country": "Australia",
