@@ -48,4 +48,4 @@ The script never deletes entries. Photos of removed or merged cards stay in `pho
 
 After changing any of these, run the script with `--force "<activity name>"`.
 
-A stop with `"kind": "food"` is a list of things to try rather than a place on the route: it gets a 🍴 instead of a stop number. Any stop can have an `intro`, a short paragraph shown under its heading.
+Places get an AU or NZ badge; their `note` says where they are, not when or for how long. A stop with `"kind": "food"` is a list of things to try rather than a place: it gets a 🍴 badge. Any stop can have an `intro`, a short paragraph shown under its heading.

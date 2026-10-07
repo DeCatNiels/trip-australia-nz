@@ -24,7 +24,7 @@ window.CHECKLIST = [
       },
       {
         "text": "Onward ticket out of each country",
-        "detail": "Both countries can ask for proof you are leaving, so book the Australia to New Zealand flight and the flight home before you arrive."
+        "detail": "Both countries can ask for proof you are leaving, so book the flight between Australia and New Zealand and the flight home before you arrive."
       },
       {
         "text": "Arrival declarations",

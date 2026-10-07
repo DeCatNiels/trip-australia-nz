@@ -5,7 +5,7 @@ window.STOPS = [
     "id": "sydney",
     "name": "Sydney",
     "country": "Australia",
-    "note": "Week 1",
+    "note": "New South Wales",
     "activities": [
       {
         "name": "Opera House and Harbour Bridge",
@@ -202,7 +202,7 @@ window.STOPS = [
       {
         "name": "Eastern Creek Karts",
         "emoji": "🏁",
-        "description": "Outdoor karting with three tracks up to 1 km, 40 minutes west of the CBD. The fast 13 HP karts reach 80 km/h, about $45 for 10 minutes plus a one-off licence. Next to Sydney Dragway, so it combines with a drift night.",
+        "description": "Outdoor karting with three tracks up to 1 km, 40 minutes west of the CBD. The fast 13 HP karts reach 80 km/h, about $45 for 10 minutes plus a one-off licence. Next to Sydney Dragway, where the drift nights are.",
         "tags": [
           "cars"
         ],
@@ -219,7 +219,7 @@ window.STOPS = [
     "id": "blue",
     "name": "Blue Mountains",
     "country": "Australia",
-    "note": "Day trip",
+    "note": "New South Wales, 2 hours west of Sydney",
     "activities": [
       {
         "name": "Three Sisters lookout",
@@ -272,7 +272,7 @@ window.STOPS = [
     "id": "melb",
     "name": "Melbourne",
     "country": "Australia",
-    "note": "Week 2",
+    "note": "Victoria",
     "activities": [
       {
         "name": "Laneways and street art",
@@ -383,7 +383,7 @@ window.STOPS = [
       {
         "name": "Four Pillars gin, Healesville",
         "emoji": "🍸",
-        "description": "Gin tastings at a distillery in the Yarra Valley. Easy to add to the wine day.",
+        "description": "Gin tastings at a distillery in the Yarra Valley, among the wineries.",
         "tags": [
           "drinks"
         ],
@@ -425,7 +425,7 @@ window.STOPS = [
       {
         "name": "Go karts at the Phillip Island GP circuit",
         "emoji": "🏁",
-        "description": "A 720 m scale replica of the MotoGP circuit, right next to the real one, with ocean views. Easy to do in the afternoon before the penguin parade.",
+        "description": "A 720 m scale replica of the MotoGP circuit, right next to the real one, with ocean views. On Phillip Island, like the penguin parade.",
         "tags": [
           "cars"
         ],
@@ -442,7 +442,7 @@ window.STOPS = [
     "id": "gor",
     "name": "Great Ocean Road",
     "country": "Australia",
-    "note": "2–3 days by car",
+    "note": "Victoria, coast road west of Melbourne",
     "activities": [
       {
         "name": "Bells Beach",
@@ -520,7 +520,7 @@ window.STOPS = [
       {
         "name": "Forrest Brewing",
         "emoji": "🍺",
-        "description": "Small brewery in an Otways village. Good lunch stop between the rainforest and the coast.",
+        "description": "Small brewery with food in an Otways village, close to the rainforest.",
         "tags": [
           "drinks"
         ],
@@ -537,7 +537,7 @@ window.STOPS = [
     "id": "tas",
     "name": "Tasmania",
     "country": "Australia",
-    "note": "Optional",
+    "note": "Island state south of Melbourne",
     "activities": [
       {
         "name": "MONA",
@@ -813,7 +813,7 @@ window.STOPS = [
     "id": "qt",
     "name": "Queenstown",
     "country": "New Zealand",
-    "note": "Week 3",
+    "note": "South Island",
     "activities": [
       {
         "name": "Kawarau Bridge bungee",
@@ -945,7 +945,7 @@ window.STOPS = [
       {
         "name": "Highlands Motorsport Park",
         "emoji": "🏎️",
-        "description": "In Cromwell, 45 minutes from Queenstown. Race karts on a 650 m track (about NZ$54 for 10 minutes), or ride hot laps on the real circuit in a Ferrari or Porsche with a pro driver. Fits on the drive to Wanaka.",
+        "description": "In Cromwell, 45 minutes from Queenstown. Race karts on a 650 m track (about NZ$54 for 10 minutes), or ride hot laps on the real circuit in a Ferrari or Porsche with a pro driver.",
         "tags": [
           "cars"
         ],
@@ -962,7 +962,7 @@ window.STOPS = [
     "id": "mil",
     "name": "Milford Sound",
     "country": "New Zealand",
-    "note": "Day trip",
+    "note": "South Island, Fiordland",
     "activities": [
       {
         "name": "Fjord cruise or scenic flight",
@@ -984,7 +984,7 @@ window.STOPS = [
     "id": "wan",
     "name": "Wanaka",
     "country": "New Zealand",
-    "note": "1–2 days",
+    "note": "South Island, 1 hour from Queenstown",
     "activities": [
       {
         "name": "Roys Peak",
@@ -1049,7 +1049,7 @@ window.STOPS = [
     "id": "mtc",
     "name": "Mount Cook + Tekapo",
     "country": "New Zealand",
-    "note": "1–2 days",
+    "note": "South Island, Mackenzie Country",
     "activities": [
       {
         "name": "Hooker Valley Track",
@@ -1114,8 +1114,8 @@ window.STOPS = [
     "id": "akl",
     "name": "Auckland",
     "country": "New Zealand",
-    "note": "Optional, North Island",
-    "intro": "An alternative or add-on to the South Island. Queenstown to Auckland is a 2-hour flight, and Auckland has the most flights home. By car: Auckland to Coromandel or Rotorua is about 3 hours, Rotorua to Taupō 1 hour, Taupō to Wellington about 5 hours.",
+    "note": "North Island",
+    "intro": "Queenstown to Auckland is a 2-hour flight, and Auckland has the most flights home. By car: Auckland to Coromandel or Rotorua is about 3 hours, Rotorua to Taupō 1 hour, Taupō to Wellington about 5 hours.",
     "activities": [
       {
         "name": "Sky Tower and SkyJump",
@@ -1200,7 +1200,7 @@ window.STOPS = [
     "id": "cor",
     "name": "Coromandel",
     "country": "New Zealand",
-    "note": "Optional, North Island",
+    "note": "North Island",
     "activities": [
       {
         "name": "Cathedral Cove",
@@ -1237,7 +1237,7 @@ window.STOPS = [
     "id": "rot",
     "name": "Rotorua + Taupō",
     "country": "New Zealand",
-    "note": "Optional, North Island",
+    "note": "North Island",
     "activities": [
       {
         "name": "Geysers at Te Puia",
@@ -1362,7 +1362,7 @@ window.STOPS = [
     "id": "wlg",
     "name": "Wellington",
     "country": "New Zealand",
-    "note": "Optional, North Island",
+    "note": "North Island",
     "activities": [
       {
         "name": "Craft beer capital",
@@ -1516,7 +1516,7 @@ window.STOPS = [
       {
         "name": "NZ wine",
         "emoji": "🍷",
-        "description": "Marlborough sauvignon blanc is everywhere. Central Otago pinot noir is the local one on this route.",
+        "description": "Marlborough sauvignon blanc is everywhere. Central Otago pinot noir comes from around Queenstown and Wanaka.",
         "tags": [
           "drinks"
         ],

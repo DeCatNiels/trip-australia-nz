@@ -37,11 +37,10 @@ const TAGS = {
   party: "Party", dnb: "DnB", cars: "Cars",
 };
 
-// Food sections are not stops on the route, so they get an icon instead of a number
-let stopNum = 0;
+// Places get a country badge, food lists an icon. No numbers: the order is not a route.
 document.getElementById("main").innerHTML = stops.map(s => `
 <section id="${s.id}" class="${s.country === "New Zealand" ? "nz" : ""} ${s.kind === "food" ? "food" : ""}">
-  <h2><span class="stopnum">${s.kind === "food" ? "🍴" : ++stopNum}</span>${esc(s.name)} <small>${esc(s.note)}${s.country === "New Zealand" && s.kind !== "food" ? ", New Zealand" : ""}</small></h2>
+  <h2><span class="stopnum">${s.kind === "food" ? "🍴" : s.country === "New Zealand" ? "NZ" : "AU"}</span>${esc(s.name)} <small>${esc(s.note)}${s.country === "New Zealand" && s.kind !== "food" ? ", New Zealand" : ""}</small></h2>
   ${s.intro ? `<p class="intro">${esc(s.intro)}</p>` : ""}
   <ul>${s.activities.map(a => {
     const id = activityId(s, a);
