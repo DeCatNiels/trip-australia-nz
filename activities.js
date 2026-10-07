@@ -69,6 +69,9 @@ window.STOPS = [
         "coords": [
           -33.8434,
           151.2412
+        ],
+        "pin": [
+          "File:Sydney taronga zoo.jpg"
         ]
       },
       {
@@ -116,6 +119,10 @@ window.STOPS = [
         "coords": [
           -33.87,
           151.2045
+        ],
+        "pin": [
+          "File:DJ Hype, Matrix, and Futurebound at Egg.jpg",
+          "openverse:b65de474-b0df-414e-9af8-681d3a568083"
         ]
       },
       {
@@ -276,6 +283,9 @@ window.STOPS = [
         "coords": [
           -33.728,
           150.301
+        ],
+        "pin": [
+          "File:Katoomba (AU), Scenic World, Scenic Skyway -- 2019 -- 1872.jpg"
         ]
       },
       {
@@ -330,6 +340,9 @@ window.STOPS = [
         "coords": [
           -37.8076,
           144.9568
+        ],
+        "pin": [
+          "openverse:1c140bfb-bd41-4623-8e69-adc636c6e882"
         ]
       },
       {
@@ -422,6 +435,9 @@ window.STOPS = [
         "coords": [
           -37.802,
           144.99
+        ],
+        "pin": [
+          "openverse:eedb06b8-3f92-4518-be61-1916a6b3cb1d"
         ]
       },
       {
@@ -440,7 +456,8 @@ window.STOPS = [
           145.5155
         ],
         "pin": [
-          "openverse:da05a6ed-5318-44b3-b3ef-72c7b0419b2e"
+          "openverse:da05a6ed-5318-44b3-b3ef-72c7b0419b2e",
+          "openverse:812c0ee0-d09c-4406-8a44-7e7dd153427e"
         ],
         "exclude": [
           "File:Healesville Grand Hotel.JPG"
@@ -783,6 +800,10 @@ window.STOPS = [
         "coords": [
           -43.22,
           147.36
+        ],
+        "pin": [
+          "openverse:35c867ea-d605-4c5a-8644-17da8102c952",
+          "openverse:6631c358-6bba-4970-ad53-2a17a0561b8b"
         ]
       },
       {
@@ -854,7 +875,10 @@ window.STOPS = [
           "food"
         ],
         "wiki": "Barramundi",
-        "search": "barramundi fillet dish"
+        "search": "barramundi fillet dish",
+        "pin": [
+          "openverse:1ac4bb7b-3141-420f-b8c9-f2a8eb8494f8"
+        ]
       },
       {
         "name": "Kangaroo steak",
@@ -944,6 +968,9 @@ window.STOPS = [
         "coords": [
           -45.009,
           168.898
+        ],
+        "pin": [
+          "openverse:03843ebf-4a3e-4a47-8618-12a4ed191980"
         ]
       },
       {
@@ -977,6 +1004,10 @@ window.STOPS = [
         "coords": [
           -45.031,
           168.653
+        ],
+        "pin": [
+          "openverse:fe0a1d51-1d17-4260-9865-7659f8f2f5ce",
+          "openverse:e645dbc4-bf5c-4e9c-957f-9dc233e61c99"
         ]
       },
       {
@@ -1452,6 +1483,9 @@ window.STOPS = [
         "coords": [
           -38.164,
           176.251
+        ],
+        "pin": [
+          "openverse:2261e1cf-dddf-4cf3-b354-301b9e77221a"
         ]
       },
       {
@@ -1645,6 +1679,9 @@ window.STOPS = [
         "coords": [
           -41.305,
           174.827
+        ],
+        "pin": [
+          "File:Weta Workshop Gandalf.jpg"
         ]
       }
     ]

@@ -554,20 +554,20 @@ window.PHOTOS = {
  ],
  "sydney:BASSIC at Chinese Laundry": [
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Dextrous_Switzerland.jpg/1280px-Dextrous_Switzerland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "artist": "XTCJOE",
-   "license": "CC0",
-   "page": "https://commons.wikimedia.org/wiki/File:Dextrous_Switzerland.jpg",
-   "source": "commons",
-   "id": "File:Dextrous Switzerland.jpg"
+   "src": "https://live.staticflickr.com/3889/15344836456_44d313564f_b.jpg",
+   "source": "openverse",
+   "id": "openverse:b65de474-b0df-414e-9af8-681d3a568083",
+   "artist": "danijeljw",
+   "license": "CC BY 2.0",
+   "page": "https://www.flickr.com/photos/43313447@N05/15344836456"
   },
   {
-   "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lad%C3%A1nybene_27%2C_2011_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "artist": "Derzsi Elekes Andor",
-   "license": "CC BY-SA 3.0",
-   "page": "https://commons.wikimedia.org/wiki/File:Lad%C3%A1nybene_27,_2011_(1).jpg",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/DJ_SS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "source": "commons",
-   "id": "File:Ladánybene 27, 2011 (1).jpg"
+   "id": "File:DJ SS.jpg",
+   "artist": "Alkivar",
+   "license": "CC BY-SA 2.5",
+   "page": "https://commons.wikimedia.org/wiki/File:DJ_SS.jpg"
   },
   {
    "src": "https://live.staticflickr.com/7163/6400150643_2e0d7165e2_b.jpg",
@@ -578,12 +578,52 @@ window.PHOTOS = {
    "page": "https://www.flickr.com/photos/39947899@N06/6400150643"
   },
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/%C3%81roksz%C3%A1ll%C3%A1si_Ras_Tam%C3%A1s%2C_Lad%C3%A1nybene_27%2C_2011_%284%29.jpg/1280px-%C3%81roksz%C3%A1ll%C3%A1si_Ras_Tam%C3%A1s%2C_Lad%C3%A1nybene_27%2C_2011_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "artist": "Derzsi Elekes Andor",
-   "license": "CC BY-SA 3.0",
-   "page": "https://commons.wikimedia.org/wiki/File:%C3%81roksz%C3%A1ll%C3%A1si_Ras_Tam%C3%A1s,_Lad%C3%A1nybene_27,_2011_(4).jpg",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/DJ_Hype%2C_Matrix%2C_and_Futurebound_at_Egg.jpg/1280px-DJ_Hype%2C_Matrix%2C_and_Futurebound_at_Egg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "commons",
-   "id": "File:Árokszállási Ras Tamás, Ladánybene 27, 2011 (4).jpg"
+   "id": "File:DJ Hype, Matrix, and Futurebound at Egg.jpg",
+   "artist": "Adam J Roberts",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:DJ_Hype,_Matrix,_and_Futurebound_at_Egg.jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/4061/4649941337_f49d2db412_b.jpg",
+   "source": "openverse",
+   "id": "openverse:195c830b-7ead-4e2c-9981-d478282dc66a",
+   "artist": "LD PIX",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/57218775@N00/4649941337"
+  },
+  {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/DJ_Hype_at_Egg_%282018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "commons",
+   "id": "File:DJ Hype at Egg (2018).jpg",
+   "artist": "Adam J Roberts",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:DJ_Hype_at_Egg_(2018).jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/3063/3007477509_9a2fd5de06_b.jpg",
+   "source": "openverse",
+   "id": "openverse:a606f0c3-c88f-4d83-a996-2d2e3f5e8f23",
+   "artist": "Agitproper",
+   "license": "CC BY-NC 2.0",
+   "page": "https://www.flickr.com/photos/50719589@N00/3007477509"
+  },
+  {
+   "src": "https://live.staticflickr.com/3271/3007811027_5994e5d156_b.jpg",
+   "source": "openverse",
+   "id": "openverse:28040586-ba7c-4543-b17d-28cece05f704",
+   "artist": "Agitproper",
+   "license": "CC BY-NC 2.0",
+   "page": "https://www.flickr.com/photos/50719589@N00/3007811027"
+  },
+  {
+   "src": "https://live.staticflickr.com/5054/5503569841_78e9e8d53f_b.jpg",
+   "source": "openverse",
+   "id": "openverse:086bbac6-e3ac-4c3e-96cc-e0a6dee38158",
+   "artist": "LD PIX",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/57218775@N00/5503569841"
   }
  ],
  "sydney:HOME The Venue": [
@@ -3732,7 +3772,16 @@ window.PHOTOS = {
    "page": "https://www.flickr.com/photos/17751217@N00/9014364052"
   }
  ],
- "melb:Brewery taprooms": [],
+ "melb:Brewery taprooms": [
+  {
+   "src": "https://live.staticflickr.com/4311/35834525782_e2b180114b_b.jpg",
+   "source": "openverse",
+   "id": "openverse:eedb06b8-3f92-4518-be61-1916a6b3cb1d",
+   "artist": "Government of Prince Edward Island",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/55216729@N06/35834525782"
+  }
+ ],
  "melb:Four Pillars gin, Healesville": [
   {
    "src": "https://live.staticflickr.com/65535/52271813856_46d1bd1574_b.jpg",
@@ -3741,6 +3790,14 @@ window.PHOTOS = {
    "artist": "Simon_sees",
    "license": "CC BY 2.0",
    "page": "https://www.flickr.com/photos/39551170@N02/52271813856"
+  },
+  {
+   "src": "https://live.staticflickr.com/65535/54437045727_8c51620358_b.jpg",
+   "source": "openverse",
+   "id": "openverse:812c0ee0-d09c-4406-8a44-7e7dd153427e",
+   "artist": "spelio",
+   "license": "CC BY-NC-SA 2.0",
+   "page": "https://www.flickr.com/photos/61804295@N00/54437045727"
   }
  ],
  "gor:Timboon distillery and food trail": [
@@ -3984,6 +4041,22 @@ window.PHOTOS = {
   }
  ],
  "tas:Bruny Island oysters and cheese": [
+  {
+   "src": "https://live.staticflickr.com/5691/23715288262_b5b30ff588_b.jpg",
+   "source": "openverse",
+   "id": "openverse:35c867ea-d605-4c5a-8644-17da8102c952",
+   "artist": "jshyun",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/34314322@N00/23715288262"
+  },
+  {
+   "src": "https://live.staticflickr.com/5202/5273237814_4b34e41c36_b.jpg",
+   "source": "openverse",
+   "id": "openverse:6631c358-6bba-4970-ad53-2a17a0561b8b",
+   "artist": "Charles Haynes",
+   "license": "CC BY-SA 2.0",
+   "page": "https://www.flickr.com/photos/87232391@N00/5273237814"
+  },
   {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Oysters_-_Exploring_low_tide_in_morning_light_at_Daniel%27s_Bay%2C_Lunawanna_%2833912997465%29.jpg/1280px-Oysters_-_Exploring_low_tide_in_morning_light_at_Daniel%27s_Bay%2C_Lunawanna_%2833912997465%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "commons",

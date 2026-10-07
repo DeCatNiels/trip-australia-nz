@@ -29,7 +29,10 @@ function photosFor(stop, activity) {
   for (let i = 0; i < Math.max(0, ...lists.map(l => l.length)); i++)
     lists.forEach(l => { if (l[i]) merged.push(l[i]); });
   const exclude = new Set(activity.exclude || []);
-  return merged.filter(p => !exclude.has(p.id));
+  // Pinned photos come first (the first is the cover), even if photos.js hasn't been refetched since
+  const pin = activity.pin || [];
+  const rank = p => pin.includes(p.id) ? pin.indexOf(p.id) : pin.length;
+  return merged.filter(p => !exclude.has(p.id)).sort((a, b) => rank(a) - rank(b));
 }
 const cardPhotos = {};
 
