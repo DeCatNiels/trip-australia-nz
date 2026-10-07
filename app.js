@@ -31,7 +31,11 @@ function photosFor(stop, activity) {
 }
 const cardPhotos = {};
 
-const TAGS = { dnb: "DnB", surf: "Surf", food: "Food", drinks: "Drinks", cars: "Cars", party: "Party" };
+const TAGS = {
+  hike: "Hiking", nature: "Nature & wildlife", sights: "Sights", museum: "Museums & culture",
+  beach: "Beach & water", adventure: "Adventure", surf: "Surf", food: "Food", drinks: "Drinks",
+  party: "Party", dnb: "DnB", cars: "Cars",
+};
 
 // Food sections are not stops on the route, so they get an icon instead of a number
 let stopNum = 0;
@@ -46,10 +50,10 @@ document.getElementById("main").innerHTML = stops.map(s => `
       ? `<img src="${esc(list[0].src)}" alt="" loading="lazy">${list.length > 1 ? `<span class="n">📷 ${list.length}</span>` : ""}`
       : a.emoji;
     return `
-    <li data-id="${esc(id)}" class="${stars.has(id) ? "picked" : ""} ${theirs.has(id) ? "theirs" : ""}">
+    <li data-id="${esc(id)}" data-tags="${esc((a.tags || []).join(" "))}" class="${stars.has(id) ? "picked" : ""} ${theirs.has(id) ? "theirs" : ""}">
       <button class="ph" ${list.length ? "" : "disabled"} aria-label="Show photos of ${esc(a.name)}">${cover}</button>
       ${theirs.has(id) ? `<span class="friend">Friend ✓</span>` : ""}
-      <div class="body"><span class="name">${esc(a.name)}</span>${a.tag ? `<span class="tag ${a.tag}">${TAGS[a.tag]}</span>` : ""}
+      <div class="body"><span class="name">${esc(a.name)}</span>${(a.tags || []).map(t => `<span class="tag ${t}">${TAGS[t]}</span>`).join("")}
         <div class="desc">${esc(a.description)} <a href="${more(a.name, s.name)}" target="_blank" rel="noopener">More photos</a></div></div>
       <button class="star" aria-pressed="${stars.has(id)}" aria-label="Star ${esc(a.name)}">★</button>
     </li>`;
@@ -65,9 +69,35 @@ const count = () => {
 };
 count();
 document.getElementById("bothBtn").hidden = !theirs.size;
-const visible = id =>
-  (!document.body.classList.contains("only") || stars.has(id)) &&
-  (!document.body.classList.contains("both") || (stars.has(id) && theirs.has(id)));
+// Filters: starred only, both picked, and one label at a time. They combine.
+const filters = { only: false, both: false, tag: null };
+const visible = id => {
+  const li = cards[id];
+  return (!filters.only || stars.has(id)) &&
+    (!filters.both || (stars.has(id) && theirs.has(id))) &&
+    (!filters.tag || li.dataset.tags.split(" ").includes(filters.tag));
+};
+const cards = {};
+document.querySelectorAll("#main li").forEach(li => cards[li.dataset.id] = li);
+function applyFilters() {
+  for (const [id, li] of Object.entries(cards)) li.hidden = !visible(id);
+  document.querySelectorAll("#main section").forEach(s => s.hidden = !s.querySelector("li:not([hidden])"));
+  document.body.classList.toggle("filtered", filters.only || filters.both || !!filters.tag);
+  updateMarkers();
+}
+
+const tagCounts = {};
+Object.values(cards).forEach(li => li.dataset.tags.split(" ").filter(Boolean).forEach(t => tagCounts[t] = (tagCounts[t] || 0) + 1));
+const tagBar = document.getElementById("tagBar");
+tagBar.innerHTML = Object.keys(TAGS).filter(t => tagCounts[t]).map(t =>
+  `<button class="tag ${t}" data-tag="${t}" aria-pressed="false">${TAGS[t]} <span>${tagCounts[t]}</span></button>`).join("");
+tagBar.addEventListener("click", e => {
+  const b = e.target.closest("button");
+  if (!b) return;
+  filters.tag = filters.tag === b.dataset.tag ? null : b.dataset.tag;
+  tagBar.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x.dataset.tag === filters.tag));
+  applyFilters();
+});
 
 // Map: one dot per place, starred ones in yellow. Food lists have no location.
 const markers = {};
@@ -112,13 +142,12 @@ function updateMarkers() {
   }
 }
 
-const filterButton = (buttonId, bodyClass) => {
+const filterButton = (buttonId, filter) => {
   const button = document.getElementById(buttonId);
   button.addEventListener("click", () => {
-    const on = button.getAttribute("aria-pressed") !== "true";
-    button.setAttribute("aria-pressed", on);
-    document.body.classList.toggle(bodyClass, on);
-    updateMarkers();
+    filters[filter] = button.getAttribute("aria-pressed") !== "true";
+    button.setAttribute("aria-pressed", filters[filter]);
+    applyFilters();
   });
 };
 filterButton("onlyBtn", "only");
@@ -215,7 +244,7 @@ document.getElementById("main").addEventListener("click", e => {
     li.classList.toggle("picked", on);
     save();
     count();
-    updateMarkers();
+    applyFilters();
   } else if (e.target.closest(".ph")) {
     open(id, li.querySelector(".name").textContent);
   }

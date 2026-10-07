@@ -11,6 +11,9 @@ window.STOPS = [
         "name": "Opera House and Harbour Bridge",
         "emoji": "🎭",
         "description": "Walk across the bridge for free or climb the arch. The Opera House has a 1-hour tour inside the sails.",
+        "tags": [
+          "sights"
+        ],
         "wiki": "Sydney Opera House",
         "search": "Sydney Opera House Harbour Bridge",
         "photosOf": [
@@ -26,6 +29,9 @@ window.STOPS = [
         "name": "The Rocks",
         "emoji": "🍺",
         "description": "Old sandstone quarter with pubs and weekend markets.",
+        "tags": [
+          "sights"
+        ],
         "wiki": "The Rocks, New South Wales",
         "search": "The Rocks Sydney",
         "coords": [
@@ -37,6 +43,10 @@ window.STOPS = [
         "name": "Bondi to Coogee coastal walk",
         "emoji": "🌊",
         "description": "6 km of cliffs, rock pools and beaches.",
+        "tags": [
+          "hike",
+          "beach"
+        ],
         "wiki": "Bondi to Coogee coastal walk",
         "search": "Bondi Tamarama Bronte coastal walk",
         "coords": [
@@ -48,6 +58,9 @@ window.STOPS = [
         "name": "Taronga Zoo",
         "emoji": "🦘",
         "description": "Kangaroos and koalas, with skyline views. Go by ferry.",
+        "tags": [
+          "nature"
+        ],
         "wiki": "Taronga Zoo Sydney",
         "search": "Taronga Zoo",
         "coords": [
@@ -59,7 +72,10 @@ window.STOPS = [
         "name": "Learn to surf",
         "emoji": "🏄",
         "description": "A lesson at Manly (easy beginner waves), a 2–3 day surf camp south of Sydney, or a lesson in Torquay on the Great Ocean Road.",
-        "tag": "surf",
+        "tags": [
+          "surf",
+          "beach"
+        ],
         "wiki": "Surfing",
         "search": "surf lesson beginners beach",
         "photosOf": [
@@ -76,7 +92,9 @@ window.STOPS = [
         "name": "BASSIC at Chinese Laundry",
         "emoji": "🎧",
         "description": "Weekly bass night every Friday, 7 pm to 1 am, about $10–25. Drum & bass mixed with other bass styles.",
-        "tag": "dnb",
+        "tags": [
+          "dnb"
+        ],
         "wiki": "Drum and bass",
         "search": "drum and bass DJ nightclub",
         "exclude": [
@@ -96,7 +114,9 @@ window.STOPS = [
         "name": "Dizzee Rascal on the Opera House steps",
         "emoji": "🎤",
         "description": "Sat 5 Dec 2026 from 6 pm, outdoors on the Opera House forecourt. Grime and bass with Example and ArrDee; Swaglord Savannah opens with a drum & bass and jungle set. Ticketmaster / Live Nation.",
-        "tag": "dnb",
+        "tags": [
+          "dnb"
+        ],
         "wiki": "Dizzee Rascal",
         "search": "Dizzee Rascal live concert",
         "coords": [
@@ -108,7 +128,9 @@ window.STOPS = [
         "name": "Sydney Fish Market",
         "emoji": "🦐",
         "description": "Prawns and Sydney rock oysters by the water. December is peak Christmas seafood season.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Sydney Fish Market",
         "search": "Sydney Fish Market seafood",
         "coords": [
@@ -120,7 +142,9 @@ window.STOPS = [
         "name": "Inner West brewery crawl",
         "emoji": "🍺",
         "description": "A cluster of taprooms around Marrickville and St Peters. Young Henrys in Newtown is the classic.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Young Henrys",
         "search": "Young Henrys brewery",
         "exclude": [
@@ -144,7 +168,9 @@ window.STOPS = [
         "name": "Drift nights at Sydney Dragway",
         "emoji": "🏎️",
         "description": "Australian Drift Club nights in Eastern Creek: Fri 4 and Sat 5 Dec from 6 pm, also Wed 9 Dec. Check spectator tickets and \"ride with a pro\" passenger laps on their site.",
-        "tag": "cars",
+        "tags": [
+          "cars"
+        ],
         "wiki": "Drifting (motorsport)",
         "search": "drifting car smoke motorsport",
         "coords": [
@@ -156,7 +182,10 @@ window.STOPS = [
         "name": "Harbour party boat",
         "emoji": "🛥️",
         "description": "HarbourCat's under-35s beach party: 3 hours with free-flowing drinks and a BBQ, anchored at a harbour beach with paddleboards, about $159. Yeah Buoy runs cheaper sunset boat parties from about $20.",
-        "tag": "party",
+        "tags": [
+          "party",
+          "beach"
+        ],
         "wiki": "Port Jackson",
         "search": "boat party",
         "exclude": [
@@ -174,7 +203,9 @@ window.STOPS = [
         "name": "Eastern Creek Karts",
         "emoji": "🏁",
         "description": "Outdoor karting with three tracks up to 1 km, 40 minutes west of the CBD. The fast 13 HP karts reach 80 km/h, about $45 for 10 minutes plus a one-off licence. Next to Sydney Dragway, so it combines with a drift night.",
-        "tag": "cars",
+        "tags": [
+          "cars"
+        ],
         "wiki": "Kart racing",
         "search": "outdoor go kart racing track",
         "coords": [
@@ -194,6 +225,10 @@ window.STOPS = [
         "name": "Three Sisters lookout",
         "emoji": "⛰️",
         "description": "The famous rock formation over a huge valley.",
+        "tags": [
+          "nature",
+          "sights"
+        ],
         "wiki": "Three Sisters (Australia)",
         "search": "Three Sisters Echo Point Katoomba",
         "coords": [
@@ -205,6 +240,10 @@ window.STOPS = [
         "name": "Scenic World",
         "emoji": "🚡",
         "description": "Cable cars and the world's steepest railway.",
+        "tags": [
+          "nature",
+          "sights"
+        ],
         "wiki": "Scenic World",
         "search": "Scenic World Katoomba",
         "coords": [
@@ -216,6 +255,10 @@ window.STOPS = [
         "name": "Grand Canyon walking track",
         "emoji": "🌿",
         "description": "Ferny gorge loop, about 3 hours.",
+        "tags": [
+          "hike",
+          "nature"
+        ],
         "wiki": "Grand Canyon walking track Blue Mountains",
         "search": "Grand Canyon track Blackheath",
         "coords": [
@@ -235,6 +278,9 @@ window.STOPS = [
         "name": "Laneways and street art",
         "emoji": "🎨",
         "description": "Hosier Lane and the café alleys.",
+        "tags": [
+          "sights"
+        ],
         "wiki": "Hosier Lane",
         "search": "Hosier Lane street art",
         "coords": [
@@ -246,6 +292,9 @@ window.STOPS = [
         "name": "Queen Victoria Market",
         "emoji": "🛍️",
         "description": "Food market; night market on Wednesdays in summer.",
+        "tags": [
+          "food"
+        ],
         "wiki": "Queen Victoria Market",
         "search": "Queen Victoria Market Melbourne",
         "coords": [
@@ -257,6 +306,9 @@ window.STOPS = [
         "name": "St Kilda penguins",
         "emoji": "🐧",
         "description": "Little penguins on the pier at dusk.",
+        "tags": [
+          "nature"
+        ],
         "wiki": "St Kilda Pier",
         "search": "St Kilda pier penguins",
         "coords": [
@@ -268,6 +320,9 @@ window.STOPS = [
         "name": "Phillip Island penguin parade",
         "emoji": "🐧",
         "description": "Hundreds of penguins coming ashore at sunset.",
+        "tags": [
+          "nature"
+        ],
         "wiki": "Little penguin",
         "search": "Phillip Island penguins",
         "coords": [
@@ -279,6 +334,9 @@ window.STOPS = [
         "name": "Yarra Valley wine day",
         "emoji": "🍷",
         "description": "Vineyards an hour outside the city.",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Yarra Valley",
         "search": "Yarra Valley winery vineyard",
         "coords": [
@@ -290,7 +348,9 @@ window.STOPS = [
         "name": "Drum n Bass Mondays",
         "emoji": "🎧",
         "description": "Free weekly DnB night at Radio Bar in Fitzroy, running since 2016.",
-        "tag": "dnb",
+        "tags": [
+          "dnb"
+        ],
         "wiki": "Rave",
         "search": "drum and bass DJ nightclub crowd",
         "exclude": [
@@ -310,7 +370,9 @@ window.STOPS = [
         "name": "Brewery taprooms",
         "emoji": "🍺",
         "description": "Collingwood, Abbotsford and Brunswick are full of them. Moon Dog World in Preston is a huge beer hall.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Moon Dog Craft Brewery",
         "search": "Melbourne craft brewery taproom",
         "coords": [
@@ -322,7 +384,9 @@ window.STOPS = [
         "name": "Four Pillars gin, Healesville",
         "emoji": "🍸",
         "description": "Gin tastings at a distillery in the Yarra Valley. Easy to add to the wine day.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Healesville",
         "search": "Four Pillars gin distillery Healesville",
         "coords": [
@@ -334,7 +398,9 @@ window.STOPS = [
         "name": "Rooftop bars",
         "emoji": "🍸",
         "description": "Rooftop Bar on top of Curtin House (Swanston St) has skyline views and an outdoor cinema in summer. Siglo on Spring St does classic cocktails until 3 am.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Curtin House",
         "search": "Melbourne rooftop bar",
         "coords": [
@@ -346,7 +412,9 @@ window.STOPS = [
         "name": "Meredith Music Festival",
         "emoji": "🎪",
         "description": "Fri 11 to Sun 13 Dec 2026, a camping festival in a natural amphitheatre 1.5 hours from Melbourne. A cult favourite with a no-dickheads rule. Tickets go by ballot and sell out, so look for official resale.",
-        "tag": "party",
+        "tags": [
+          "party"
+        ],
         "wiki": "Meredith Music Festival",
         "search": "Meredith Music Festival",
         "coords": [
@@ -358,7 +426,9 @@ window.STOPS = [
         "name": "Go karts at the Phillip Island GP circuit",
         "emoji": "🏁",
         "description": "A 720 m scale replica of the MotoGP circuit, right next to the real one, with ocean views. Easy to do in the afternoon before the penguin parade.",
-        "tag": "cars",
+        "tags": [
+          "cars"
+        ],
         "wiki": "Phillip Island Grand Prix Circuit",
         "search": "Phillip Island Grand Prix Circuit",
         "coords": [
@@ -378,6 +448,10 @@ window.STOPS = [
         "name": "Bells Beach",
         "emoji": "👀",
         "description": "Legendary pro wave. Watch, don't surf.",
+        "tags": [
+          "beach",
+          "surf"
+        ],
         "wiki": "Bells Beach, Victoria",
         "search": "Bells Beach Victoria",
         "coords": [
@@ -389,6 +463,9 @@ window.STOPS = [
         "name": "Kennett River koalas",
         "emoji": "🐨",
         "description": "Wild koalas in the gum trees by the road.",
+        "tags": [
+          "nature"
+        ],
         "wiki": "Koala",
         "search": "Kennett River koala",
         "coords": [
@@ -400,6 +477,10 @@ window.STOPS = [
         "name": "Great Otway rainforest",
         "emoji": "💧",
         "description": "Waterfalls and fern gullies.",
+        "tags": [
+          "nature",
+          "hike"
+        ],
         "wiki": "Great Otway National Park",
         "search": "Great Otway National Park waterfall",
         "coords": [
@@ -411,6 +492,10 @@ window.STOPS = [
         "name": "Twelve Apostles and Loch Ard Gorge",
         "emoji": "🪨",
         "description": "Sea stacks at sunset, or by helicopter.",
+        "tags": [
+          "sights",
+          "nature"
+        ],
         "wiki": "The Twelve Apostles (Victoria)",
         "search": "Twelve Apostles Loch Ard Gorge",
         "coords": [
@@ -422,7 +507,9 @@ window.STOPS = [
         "name": "Timboon distillery and food trail",
         "emoji": "🥃",
         "description": "Whisky tasting in an old railway shed near the Twelve Apostles. The 12 Apostles food trail around it adds cheese, chocolate and ice cream.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Timboon, Victoria",
         "search": "Timboon railway shed distillery",
         "coords": [
@@ -434,7 +521,9 @@ window.STOPS = [
         "name": "Forrest Brewing",
         "emoji": "🍺",
         "description": "Small brewery in an Otways village. Good lunch stop between the rainforest and the coast.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Forrest, Victoria",
         "search": "Forrest Otways Victoria",
         "coords": [
@@ -454,6 +543,9 @@ window.STOPS = [
         "name": "MONA",
         "emoji": "🖼️",
         "description": "Wild underground art museum, reached by ferry.",
+        "tags": [
+          "museum"
+        ],
         "wiki": "Museum of Old and New Art",
         "search": "Museum of Old and New Art Hobart",
         "coords": [
@@ -465,6 +557,9 @@ window.STOPS = [
         "name": "Salamanca Market",
         "emoji": "🧺",
         "description": "Big Saturday market in Hobart.",
+        "tags": [
+          "food"
+        ],
         "wiki": "Salamanca Market",
         "search": "Salamanca Market Hobart",
         "coords": [
@@ -476,6 +571,9 @@ window.STOPS = [
         "name": "Mount Wellington",
         "emoji": "🏔️",
         "description": "Drive up for views over Hobart.",
+        "tags": [
+          "nature"
+        ],
         "wiki": "Mount Wellington (Tasmania)",
         "search": "kunanyi Mount Wellington Hobart",
         "coords": [
@@ -487,6 +585,10 @@ window.STOPS = [
         "name": "Wineglass Bay",
         "emoji": "🏖️",
         "description": "Hike to the lookout or down to the beach.",
+        "tags": [
+          "hike",
+          "beach"
+        ],
         "wiki": "Wineglass Bay",
         "search": "Wineglass Bay Freycinet",
         "coords": [
@@ -498,6 +600,10 @@ window.STOPS = [
         "name": "Port Arthur",
         "emoji": "🏚️",
         "description": "Convict-era ruins and history.",
+        "tags": [
+          "sights",
+          "museum"
+        ],
         "wiki": "Port Arthur, Tasmania",
         "search": "Port Arthur Historic Site",
         "coords": [
@@ -509,6 +615,10 @@ window.STOPS = [
         "name": "Bruny Island",
         "emoji": "🦪",
         "description": "Food tour: oysters, cheese, wildlife.",
+        "tags": [
+          "food",
+          "nature"
+        ],
         "wiki": "Bruny Island",
         "search": "Bruny Island",
         "coords": [
@@ -520,6 +630,10 @@ window.STOPS = [
         "name": "Cradle Mountain",
         "emoji": "🐾",
         "description": "Alpine lakes and wombats.",
+        "tags": [
+          "hike",
+          "nature"
+        ],
         "wiki": "Cradle Mountain",
         "search": "Cradle Mountain Dove Lake",
         "coords": [
@@ -531,7 +645,9 @@ window.STOPS = [
         "name": "Cascade Brewery tour",
         "emoji": "🍺",
         "description": "Australia's oldest working brewery (1824), at the foot of Mount Wellington.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Cascade Brewery",
         "search": "Cascade Brewery Hobart",
         "coords": [
@@ -543,7 +659,9 @@ window.STOPS = [
         "name": "Tasmanian whisky tasting",
         "emoji": "🥃",
         "description": "Tasmania makes some of the world's best single malts. Lark's cellar door is on the Hobart waterfront.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Lark Distillery",
         "search": "Tasmania whisky distillery",
         "coords": [
@@ -555,7 +673,9 @@ window.STOPS = [
         "name": "Bruny Island oysters and cheese",
         "emoji": "🦪",
         "description": "Oysters straight from the bay at Get Shucked, plus the Bruny Island Cheese & Beer Co.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Bruny Island",
         "search": "Bruny Island oysters",
         "coords": [
@@ -567,7 +687,9 @@ window.STOPS = [
         "name": "Huon Valley cider",
         "emoji": "🍏",
         "description": "Tasmania is the \"Apple Isle\". Willie Smith's apple shed does cider tastings south of Hobart.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Huon Valley",
         "search": "Huon Valley apple orchard Tasmania",
         "coords": [
@@ -589,7 +711,9 @@ window.STOPS = [
         "name": "Meat pie",
         "emoji": "🥧",
         "description": "The national snack, from any bakery or petrol station. Comes with tomato sauce (ketchup).",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Meat pie (Australia and New Zealand)",
         "search": "Australian meat pie"
       },
@@ -597,7 +721,9 @@ window.STOPS = [
         "name": "Sausage sizzle",
         "emoji": "🌭",
         "description": "A sausage on a slice of white bread with fried onions. Outside Bunnings hardware stores on weekends, for charity.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Sausage sizzle",
         "search": "sausage sizzle"
       },
@@ -605,7 +731,9 @@ window.STOPS = [
         "name": "Chicken parmi",
         "emoji": "🍗",
         "description": "The pub classic: schnitzel with tomato sauce and melted cheese, chips and salad. Called a parma in Melbourne.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Chicken parmesan",
         "search": "chicken parmigiana pub Australia"
       },
@@ -613,7 +741,9 @@ window.STOPS = [
         "name": "Barramundi and Moreton Bay bugs",
         "emoji": "🐟",
         "description": "Barramundi is the go-to local fish. Bugs are a flat lobster-like shellfish, great grilled.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Barramundi",
         "search": "barramundi fillet dish"
       },
@@ -621,7 +751,9 @@ window.STOPS = [
         "name": "Kangaroo steak",
         "emoji": "🦘",
         "description": "Lean red meat, on lots of pub and restaurant menus. Best cooked rare.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Kangaroo meat",
         "search": "kangaroo meat steak"
       },
@@ -629,7 +761,9 @@ window.STOPS = [
         "name": "Vegemite on toast",
         "emoji": "🍞",
         "description": "Thick butter, very thin Vegemite. Not like Nutella.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Vegemite",
         "search": "Vegemite toast"
       },
@@ -637,7 +771,9 @@ window.STOPS = [
         "name": "Lamingtons and Tim Tams",
         "emoji": "🍰",
         "description": "Sponge cake in chocolate and coconut from any bakery. Try a Tim Tam slam: bite off both ends and drink hot chocolate through it.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Lamington",
         "search": "lamington cake"
       },
@@ -645,7 +781,9 @@ window.STOPS = [
         "name": "Australian beer",
         "emoji": "🍺",
         "description": "Pubs pour VB, Carlton Draught and Coopers. For craft, look for Little Creatures and Stone & Wood.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Beer in Australia",
         "search": "Australian pub beer"
       },
@@ -653,7 +791,9 @@ window.STOPS = [
         "name": "Australian wine",
         "emoji": "🍷",
         "description": "Barossa shiraz, Yarra Valley pinot noir and chardonnay, Tasmanian sparkling.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Australian wine",
         "search": "Australian vineyard wine tasting"
       },
@@ -661,7 +801,9 @@ window.STOPS = [
         "name": "Bundy rum",
         "emoji": "🥃",
         "description": "Bundaberg rum and Coke is the classic Aussie mix. Bundaberg ginger beer is the alcohol-free one.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Bundaberg Rum",
         "search": "Bundaberg rum"
       }
@@ -677,6 +819,9 @@ window.STOPS = [
         "name": "Kawarau Bridge bungee",
         "emoji": "🪢",
         "description": "The world's first commercial bungee.",
+        "tags": [
+          "adventure"
+        ],
         "wiki": "Kawarau Gorge Suspension Bridge",
         "search": "Kawarau bridge bungy",
         "coords": [
@@ -688,6 +833,9 @@ window.STOPS = [
         "name": "Shotover jet boat",
         "emoji": "🚤",
         "description": "High-speed spins through a narrow canyon.",
+        "tags": [
+          "adventure"
+        ],
         "wiki": "Shotover Jet",
         "search": "Shotover Jet",
         "coords": [
@@ -699,6 +847,10 @@ window.STOPS = [
         "name": "Skyline gondola and luge",
         "emoji": "🚠",
         "description": "Views over the lake, then race down.",
+        "tags": [
+          "adventure",
+          "sights"
+        ],
         "wiki": "Skyline Queenstown",
         "search": "Skyline gondola Queenstown luge",
         "coords": [
@@ -710,6 +862,9 @@ window.STOPS = [
         "name": "Arrowtown",
         "emoji": "⛏️",
         "description": "Small gold-rush village.",
+        "tags": [
+          "sights"
+        ],
         "wiki": "Arrowtown",
         "search": "Arrowtown",
         "coords": [
@@ -721,6 +876,9 @@ window.STOPS = [
         "name": "Glenorchy drive",
         "emoji": "🚗",
         "description": "Lakeside road into Lord of the Rings scenery.",
+        "tags": [
+          "nature"
+        ],
         "wiki": "Glenorchy, New Zealand",
         "search": "Glenorchy Lake Wakatipu",
         "coords": [
@@ -732,7 +890,9 @@ window.STOPS = [
         "name": "Bass nights at The London",
         "emoji": "🎧",
         "description": "Bar and club with DnB, reggae and bass DJs most weekends in summer. No fixed DnB night, so check their listings.",
-        "tag": "dnb",
+        "tags": [
+          "dnb"
+        ],
         "wiki": "Queenstown, New Zealand",
         "search": "Queenstown New Zealand night",
         "coords": [
@@ -744,7 +904,9 @@ window.STOPS = [
         "name": "Fergburger",
         "emoji": "🍔",
         "description": "Queenstown's famous burger. Expect a queue. Fergbaker next door does good pies.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Fergburger",
         "search": "Fergburger Queenstown",
         "coords": [
@@ -756,7 +918,9 @@ window.STOPS = [
         "name": "Gibbston Valley wineries",
         "emoji": "🍷",
         "description": "Central Otago pinot noir, 25 minutes from town. Gibbston Valley has a wine cave, and you can bike between cellar doors.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Central Otago wine region",
         "search": "Gibbston Valley vineyard",
         "coords": [
@@ -768,7 +932,9 @@ window.STOPS = [
         "name": "Kiwi Crawl bar crawl",
         "emoji": "🍻",
         "description": "About 5 bars with free pizza and drink discounts for the rest of your stay. Tue, Thu and Sat about NZ$30. The Wed and Fri version (about NZ$40) adds the Minus 5 Ice Bar.",
-        "tag": "party",
+        "tags": [
+          "party"
+        ],
         "wiki": "Queenstown, New Zealand",
         "search": "Queenstown nightlife bar",
         "coords": [
@@ -780,7 +946,9 @@ window.STOPS = [
         "name": "Highlands Motorsport Park",
         "emoji": "🏎️",
         "description": "In Cromwell, 45 minutes from Queenstown. Race karts on a 650 m track (about NZ$54 for 10 minutes), or ride hot laps on the real circuit in a Ferrari or Porsche with a pro driver. Fits on the drive to Wanaka.",
-        "tag": "cars",
+        "tags": [
+          "cars"
+        ],
         "wiki": "Highlands Motorsport Park",
         "search": "Highlands Motorsport Park Cromwell",
         "coords": [
@@ -800,6 +968,9 @@ window.STOPS = [
         "name": "Fjord cruise or scenic flight",
         "emoji": "🛳️",
         "description": "Waterfalls and cliffs straight out of the sea.",
+        "tags": [
+          "nature"
+        ],
         "wiki": "Milford Sound",
         "search": "Milford Sound",
         "coords": [
@@ -819,6 +990,10 @@ window.STOPS = [
         "name": "Roys Peak",
         "emoji": "🥾",
         "description": "Tough hike, epic ridge views.",
+        "tags": [
+          "hike",
+          "nature"
+        ],
         "wiki": "Roys Peak",
         "search": "Roys Peak Wanaka",
         "coords": [
@@ -830,6 +1005,9 @@ window.STOPS = [
         "name": "That Wanaka Tree",
         "emoji": "🌳",
         "description": "Lone willow in the lake, best at sunrise.",
+        "tags": [
+          "nature"
+        ],
         "wiki": "That Wanaka Tree",
         "search": "Wanaka tree",
         "coords": [
@@ -841,7 +1019,9 @@ window.STOPS = [
         "name": "Cardrona Distillery",
         "emoji": "🥃",
         "description": "Single malt and gin tastings on the Crown Range road between Queenstown and Wanaka.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Cardrona, New Zealand",
         "search": "Cardrona valley distillery",
         "coords": [
@@ -853,7 +1033,9 @@ window.STOPS = [
         "name": "Rippon vineyard",
         "emoji": "🍷",
         "description": "Lakeside vineyard with one of the best views in the country. Rhyme & Reason in town if you'd rather have beer.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Rippon Vineyard",
         "search": "Rippon vineyard Wanaka",
         "coords": [
@@ -873,6 +1055,10 @@ window.STOPS = [
         "name": "Hooker Valley Track",
         "emoji": "🧊",
         "description": "Easy 3-hour walk to a glacier lake.",
+        "tags": [
+          "hike",
+          "nature"
+        ],
         "wiki": "Hooker Valley",
         "search": "Hooker Valley Aoraki",
         "coords": [
@@ -884,6 +1070,9 @@ window.STOPS = [
         "name": "Church of the Good Shepherd",
         "emoji": "⛪",
         "description": "Tiny stone church on Lake Tekapo.",
+        "tags": [
+          "sights"
+        ],
         "wiki": "Church of the Good Shepherd, Lake Tekapo",
         "search": "Church of the Good Shepherd Tekapo",
         "coords": [
@@ -895,6 +1084,9 @@ window.STOPS = [
         "name": "Stargazing tour",
         "emoji": "✨",
         "description": "Dark Sky Reserve, Milky Way overhead.",
+        "tags": [
+          "nature"
+        ],
         "wiki": "Aoraki Mackenzie International Dark Sky Reserve",
         "search": "Lake Tekapo night sky stars",
         "coords": [
@@ -906,7 +1098,9 @@ window.STOPS = [
         "name": "Alpine salmon at Lake Pukaki",
         "emoji": "🐟",
         "description": "Salmon farmed in glacier-fed canals. Get sashimi at the Mt Cook Alpine Salmon shop, with the mountain behind you.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Lake Pukaki",
         "search": "Lake Pukaki Aoraki",
         "coords": [
@@ -927,6 +1121,10 @@ window.STOPS = [
         "name": "Sky Tower and SkyJump",
         "emoji": "🗼",
         "description": "328 m tower with views over the harbour. The SkyJump is a 192 m cable-controlled jump off the side.",
+        "tags": [
+          "sights",
+          "adventure"
+        ],
         "wiki": "Sky Tower (Auckland)",
         "search": "Sky Tower Auckland",
         "coords": [
@@ -938,7 +1136,9 @@ window.STOPS = [
         "name": "Waiheke Island wineries",
         "emoji": "🍷",
         "description": "Vineyard island 40 minutes from the city by ferry. A hop-on bus links the cellar doors and beaches, so nobody has to drive.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Waiheke Island",
         "search": "Waiheke Island vineyard",
         "coords": [
@@ -950,7 +1150,9 @@ window.STOPS = [
         "name": "Ponsonby Road and K Road",
         "emoji": "🪩",
         "description": "Ponsonby Road for bars and restaurants. Karangahape Road (K Road) is the late-night strip with clubs and live music.",
-        "tag": "party",
+        "tags": [
+          "party"
+        ],
         "wiki": "Karangahape Road",
         "search": "Karangahape Road Auckland",
         "coords": [
@@ -967,7 +1169,9 @@ window.STOPS = [
         "name": "Pointers",
         "emoji": "🎧",
         "description": "Auckland's drum & bass club, on Lower Hobson Street in the CBD, with DnB nights most weekends. Check their page for the December line-ups.",
-        "tag": "dnb",
+        "tags": [
+          "dnb"
+        ],
         "wiki": "Drum and bass",
         "search": "drum and bass club crowd DJ",
         "coords": [
@@ -979,7 +1183,10 @@ window.STOPS = [
         "name": "Piha beach",
         "emoji": "🏄",
         "description": "Black-sand surf beach on the wild west coast, 45 minutes from the city. Strong rips: swim between the flags.",
-        "tag": "surf",
+        "tags": [
+          "surf",
+          "beach"
+        ],
         "wiki": "Piha",
         "search": "Piha beach Lion Rock",
         "coords": [
@@ -999,6 +1206,10 @@ window.STOPS = [
         "name": "Cathedral Cove",
         "emoji": "⛰️",
         "description": "Huge rock arch on a white beach. The walking track was damaged by storms, so check if it's open; boat and kayak tours go there too.",
+        "tags": [
+          "beach",
+          "nature"
+        ],
         "wiki": "Cathedral Cove",
         "search": "Cathedral Cove Coromandel",
         "coords": [
@@ -1010,6 +1221,9 @@ window.STOPS = [
         "name": "Hot Water Beach",
         "emoji": "♨️",
         "description": "Dig your own hot pool in the sand around low tide. Rent a spade at the café.",
+        "tags": [
+          "beach"
+        ],
         "wiki": "Hot Water Beach",
         "search": "Hot Water Beach Coromandel",
         "coords": [
@@ -1029,6 +1243,10 @@ window.STOPS = [
         "name": "Geysers at Te Puia",
         "emoji": "♨️",
         "description": "Pōhutu geyser erupts several times an hour, next to bubbling mud pools and a Māori arts and crafts school.",
+        "tags": [
+          "nature",
+          "sights"
+        ],
         "wiki": "Whakarewarewa",
         "search": "Pohutu geyser Rotorua",
         "coords": [
@@ -1040,6 +1258,9 @@ window.STOPS = [
         "name": "Wai-O-Tapu thermal park",
         "emoji": "🌋",
         "description": "Bright orange and green pools, including the Champagne Pool. 30 minutes south of Rotorua.",
+        "tags": [
+          "nature"
+        ],
         "wiki": "Wai-O-Tapu",
         "search": "Wai-O-Tapu Champagne Pool",
         "coords": [
@@ -1051,6 +1272,10 @@ window.STOPS = [
         "name": "Māori cultural evening and hāngī",
         "emoji": "🔥",
         "description": "An evening with a pōwhiri welcome, haka, and a hāngī dinner cooked in an earth oven.",
+        "tags": [
+          "museum",
+          "food"
+        ],
         "wiki": "Māori culture",
         "search": "Maori cultural performance haka Rotorua",
         "coords": [
@@ -1062,6 +1287,9 @@ window.STOPS = [
         "name": "Redwoods Treewalk",
         "emoji": "🌲",
         "description": "Suspension bridges between giant redwoods, lit with lanterns at night.",
+        "tags": [
+          "nature"
+        ],
         "wiki": "Whakarewarewa Forest",
         "search": "Redwoods Whakarewarewa Forest Rotorua",
         "coords": [
@@ -1073,6 +1301,9 @@ window.STOPS = [
         "name": "Hobbiton movie set",
         "emoji": "🧙",
         "description": "The Shire from Lord of the Rings, with a drink at the Green Dragon Inn at the end. About 1 hour from Rotorua.",
+        "tags": [
+          "sights"
+        ],
         "wiki": "Hobbiton Movie Set",
         "search": "Hobbiton movie set",
         "coords": [
@@ -1084,6 +1315,10 @@ window.STOPS = [
         "name": "Waitomo glowworm caves",
         "emoji": "✨",
         "description": "Boat ride under a ceiling of glowworms. Black-water rafting on tubes through the caves for more adventure.",
+        "tags": [
+          "nature",
+          "adventure"
+        ],
         "wiki": "Waitomo Glowworm Caves",
         "search": "Waitomo glowworm cave",
         "coords": [
@@ -1095,6 +1330,10 @@ window.STOPS = [
         "name": "Tongariro Alpine Crossing",
         "emoji": "🥾",
         "description": "19 km past volcanoes and emerald crater lakes, often called the best day hike in NZ. Book a shuttle; go only in good weather.",
+        "tags": [
+          "hike",
+          "nature"
+        ],
         "wiki": "Tongariro Alpine Crossing",
         "search": "Tongariro Alpine Crossing Emerald Lakes",
         "coords": [
@@ -1106,6 +1345,10 @@ window.STOPS = [
         "name": "Huka Falls and Taupō skydive",
         "emoji": "🪂",
         "description": "Thundering blue river falls just outside Taupō. Taupō is one of the cheapest places in the world to skydive, over the lake.",
+        "tags": [
+          "nature",
+          "adventure"
+        ],
         "wiki": "Huka Falls",
         "search": "Huka Falls Taupo",
         "coords": [
@@ -1125,7 +1368,9 @@ window.STOPS = [
         "name": "Craft beer capital",
         "emoji": "🍺",
         "description": "Garage Project's taproom in Aro Valley is the famous one; the city is full of small brewery bars.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Garage Project",
         "search": "Wellington craft beer bar",
         "coords": [
@@ -1140,7 +1385,9 @@ window.STOPS = [
         "name": "Cuba Street nights",
         "emoji": "🪩",
         "description": "The bohemian strip with bars, live music and late clubs. Courtenay Place is the louder, busier party street.",
-        "tag": "party",
+        "tags": [
+          "party"
+        ],
         "wiki": "Cuba Street",
         "search": "Cuba Street Wellington",
         "coords": [
@@ -1152,6 +1399,9 @@ window.STOPS = [
         "name": "Te Papa museum",
         "emoji": "🏛️",
         "description": "Free national museum, with a colossal squid and great Māori collections.",
+        "tags": [
+          "museum"
+        ],
         "wiki": "Museum of New Zealand Te Papa Tongarewa",
         "search": "Te Papa museum Wellington",
         "coords": [
@@ -1163,6 +1413,9 @@ window.STOPS = [
         "name": "Wētā Workshop",
         "emoji": "🎬",
         "description": "Tour of the studio that made the props and creatures for Lord of the Rings.",
+        "tags": [
+          "museum"
+        ],
         "wiki": "Wētā Workshop",
         "search": "Weta Workshop Wellington",
         "coords": [
@@ -1184,7 +1437,9 @@ window.STOPS = [
         "name": "Hāngī",
         "emoji": "🔥",
         "description": "Māori feast of meat and vegetables slow-cooked in an earth oven. Look for one at a cultural evening or market.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Hāngī",
         "search": "hangi Maori food"
       },
@@ -1192,7 +1447,9 @@ window.STOPS = [
         "name": "Steak and cheese pie",
         "emoji": "🥧",
         "description": "NZ has a serious pie culture. Steak and cheese or mince and cheese are the classics.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Meat pie (Australia and New Zealand)",
         "search": "New Zealand pie bakery"
       },
@@ -1200,7 +1457,9 @@ window.STOPS = [
         "name": "NZ lamb",
         "emoji": "🐑",
         "description": "Roast, chops or rack of lamb. On most menus and very good.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Lamb and mutton",
         "search": "roast lamb dish"
       },
@@ -1208,7 +1467,9 @@ window.STOPS = [
         "name": "Green-lipped mussels",
         "emoji": "🦪",
         "description": "Big local mussels, steamed in white wine or in fritters.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Perna canaliculus",
         "search": "green-lipped mussels"
       },
@@ -1216,7 +1477,9 @@ window.STOPS = [
         "name": "Cheese rolls",
         "emoji": "🧀",
         "description": "\"Southland sushi\": toasted bread rolled around a cheesy filling. A South Island café thing.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Cheese roll",
         "search": "Southland cheese roll"
       },
@@ -1224,7 +1487,9 @@ window.STOPS = [
         "name": "Hokey pokey ice cream",
         "emoji": "🍦",
         "description": "Vanilla with crunchy honeycomb toffee. Also try Whittaker's chocolate.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Hokey pokey (ice cream)",
         "search": "hokey pokey ice cream"
       },
@@ -1232,7 +1497,9 @@ window.STOPS = [
         "name": "Pavlova",
         "emoji": "🍰",
         "description": "Meringue with cream and fruit. Both countries claim to have invented it.",
-        "tag": "food",
+        "tags": [
+          "food"
+        ],
         "wiki": "Pavlova (food)",
         "search": "pavlova dessert"
       },
@@ -1240,7 +1507,9 @@ window.STOPS = [
         "name": "L&P",
         "emoji": "🥤",
         "description": "Lemon & Paeroa, the lemony soft drink that is \"world famous in New Zealand\".",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "L&P",
         "search": "L&P Lemon Paeroa"
       },
@@ -1248,7 +1517,9 @@ window.STOPS = [
         "name": "NZ wine",
         "emoji": "🍷",
         "description": "Marlborough sauvignon blanc is everywhere. Central Otago pinot noir is the local one on this route.",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "New Zealand wine",
         "search": "Central Otago vineyard"
       },
@@ -1256,7 +1527,9 @@ window.STOPS = [
         "name": "NZ beer",
         "emoji": "🍺",
         "description": "Speight's is the southern pub classic. For craft, look for Garage Project, Emerson's and Altitude (Queenstown).",
-        "tag": "drinks",
+        "tags": [
+          "drinks"
+        ],
         "wiki": "Beer in New Zealand",
         "search": "New Zealand craft beer"
       }

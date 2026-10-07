@@ -22,7 +22,7 @@ h1{font-size:clamp(2.4rem,8vw,4rem);font-weight:800;letter-spacing:-.02em}
 .bar{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-top:20px;color:var(--muted);font-size:.95rem}
 .bar button{font:inherit;color:var(--ink);background:var(--surface);border:2px solid var(--line);
   border-radius:999px;padding:6px 14px;cursor:pointer}
-.bar button[aria-pressed="true"]{border-color:var(--sun);background:var(--sun);color:#12263A}
+.bar button:not(.tag)[aria-pressed="true"]{border-color:var(--sun);background:var(--sun);color:#12263A}
 
 section{margin-top:44px}
 h2{font-size:clamp(1.6rem,5vw,2.2rem);font-weight:800;display:flex;align-items:baseline;gap:10px}
@@ -44,12 +44,25 @@ li{background:var(--surface);border:1px solid var(--line);border-radius:14px;ove
 .body{padding:12px 14px 14px}
 .name{font-weight:700}
 .tag{display:inline-block;font-size:.75rem;font-weight:700;border-radius:6px;padding:1px 7px;margin-left:6px;vertical-align:2px}
+.tag.hike{background:#8A5A2B;color:#fff}
+.tag.nature{background:#2F6B3F;color:#fff}
+.tag.sights{background:#9A7B1C;color:#fff}
+.tag.museum{background:#5A4E8C;color:#fff}
+.tag.beach{background:#1F7FA6;color:#fff}
+.tag.adventure{background:#D9661F;color:#fff}
 .tag.dnb{background:#2B2350;color:#E9E2FF}
 .tag.surf{background:var(--gum);color:#fff}
 .tag.food{background:#C8553D;color:#fff}
 .tag.drinks{background:#7A2E4A;color:#fff}
 .tag.cars{background:#3A3F44;color:#fff}
 .tag.party{background:#D63F8C;color:#fff}
+.bar.tags{margin-top:12px;gap:8px}
+.bar.tags button.tag{margin:0;font-size:.85rem;padding:4px 12px;border:2px solid transparent;opacity:.6;vertical-align:0}
+.bar.tags button.tag span{opacity:.8;font-weight:400}
+.bar.tags button.tag[aria-pressed="true"]{opacity:1;border-color:var(--ink);background-clip:padding-box}
+.bar.tags button.tag:hover{opacity:1}
+.body .name{margin-right:6px}
+.body .tag{margin:2px 4px 0 0}
 .desc{color:var(--muted);font-size:.95rem;margin-top:2px}
 .desc a{color:var(--ocean);font-weight:700;white-space:nowrap}
 .star{font-size:1.3rem;border:0;cursor:pointer;line-height:1;position:absolute;top:8px;right:8px;
@@ -57,8 +70,6 @@ li{background:var(--surface);border:1px solid var(--line);border-radius:14px;ove
 .star[aria-pressed="true"]{color:var(--sun);background:rgba(18,38,58,.8)}
 .star:focus-visible,.bar button:focus-visible,.ph:focus-visible,a:focus-visible,dialog button:focus-visible{
   outline:3px solid var(--sun);outline-offset:2px;border-radius:6px}
-body.only li:not(.picked){display:none}
-body.only section:not(:has(li.picked)){display:none}
 .prep{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:0 18px;margin-top:8px}
 .prep summary{cursor:pointer;padding:14px 0;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
 .prep-title{font:800 1.4rem "Bricolage Grotesque",system-ui,sans-serif}
@@ -72,9 +83,8 @@ body.only section:not(:has(li.picked)){display:none}
 .check .desc{display:block}
 .check:has(input:checked) b{text-decoration:line-through;color:var(--muted)}
 .prep summary:focus-visible,.check input:focus-visible{outline:3px solid var(--sun);outline-offset:2px}
-body.both li:not(.picked.theirs){display:none}
-body.both section:not(:has(li.picked.theirs)){display:none}
-body.only .prep,body.both .prep{display:none}
+[hidden]{display:none!important}
+body.filtered .prep{display:none}
 .friend{position:absolute;top:8px;left:8px;font:700 .8rem "Atkinson Hyperlegible",sans-serif;
   color:#12263A;background:var(--sun);border-radius:999px;padding:3px 10px}
 #map{height:420px;border-radius:14px;border:1px solid var(--line);margin-bottom:16px;z-index:0}
