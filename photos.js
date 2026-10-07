@@ -2858,20 +2858,20 @@ window.PHOTOS = {
  ],
  "qt:Bass nights at The London": [
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Queenstown_1_%288168013172%29.jpg/1280px-Queenstown_1_%288168013172%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "source": "commons",
-   "id": "File:Queenstown 1 (8168013172).jpg",
-   "artist": "Bernard Spragg. NZ from Christchurch, New Zealand",
-   "license": "CC0",
-   "page": "https://commons.wikimedia.org/wiki/File:Queenstown_1_(8168013172).jpg"
+   "src": "https://live.staticflickr.com/2296/1975166130_d8d6b88a2e_b.jpg",
+   "source": "openverse",
+   "id": "openverse:9c7bba80-fc11-4671-b050-9e765ea2f202",
+   "artist": "Beats People Movement",
+   "license": "CC BY-NC-SA 2.0",
+   "page": "https://www.flickr.com/photos/35467539@N00/1975166130"
   },
   {
-   "src": "https://live.staticflickr.com/3942/15558667478_93ca015cf4_b.jpg",
+   "src": "https://live.staticflickr.com/2114/1974248239_72fd3431f0_b.jpg",
    "source": "openverse",
-   "id": "openverse:039a0250-2a2b-4a0d-8c63-6f83f97c82a3",
-   "artist": "dave.see",
-   "license": "CC BY 2.0",
-   "page": "https://www.flickr.com/photos/9639178@N08/15558667478"
+   "id": "openverse:f22bf5ad-db07-4ecc-895f-747d4a96f733",
+   "artist": "Beats People Movement",
+   "license": "CC BY-NC-SA 2.0",
+   "page": "https://www.flickr.com/photos/35467539@N00/1974248239"
   },
   {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/LUMA_Southern_Light_Project_Queenstown%2C_New_Zealand.jpg/1280px-LUMA_Southern_Light_Project_Queenstown%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2882,12 +2882,12 @@ window.PHOTOS = {
    "page": "https://commons.wikimedia.org/wiki/File:LUMA_Southern_Light_Project_Queenstown,_New_Zealand.jpg"
   },
   {
-   "src": "https://live.staticflickr.com/65535/51407335355_a84e6ec951_b.jpg",
+   "src": "https://live.staticflickr.com/3942/15558667478_93ca015cf4_b.jpg",
    "source": "openverse",
-   "id": "openverse:48c00f81-f44b-44ad-beea-53f7e807df38",
-   "artist": "Trey Ratcliff",
-   "license": "CC BY-NC-SA 2.0",
-   "page": "https://www.flickr.com/photos/95572727@N00/51407335355"
+   "id": "openverse:039a0250-2a2b-4a0d-8c63-6f83f97c82a3",
+   "artist": "dave.see",
+   "license": "CC BY 2.0",
+   "page": "https://www.flickr.com/photos/9639178@N08/15558667478"
   },
   {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Queenstown%2C_New_Zealand_%2849178012863%29.jpg/1280px-Queenstown%2C_New_Zealand_%2849178012863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2898,12 +2898,12 @@ window.PHOTOS = {
    "page": "https://commons.wikimedia.org/wiki/File:Queenstown,_New_Zealand_(49178012863).jpg"
   },
   {
-   "src": "https://live.staticflickr.com/8097/8523594022_2e0cfdac60_b.jpg",
+   "src": "https://live.staticflickr.com/65535/51407335355_a84e6ec951_b.jpg",
    "source": "openverse",
-   "id": "openverse:82debe8a-44aa-42d9-90be-7c774942cfa2",
+   "id": "openverse:48c00f81-f44b-44ad-beea-53f7e807df38",
    "artist": "Trey Ratcliff",
    "license": "CC BY-NC-SA 2.0",
-   "page": "https://www.flickr.com/photos/95572727@N00/8523594022"
+   "page": "https://www.flickr.com/photos/95572727@N00/51407335355"
   },
   {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Queenstown_Skyline_at_Night.jpg/1280px-Queenstown_Skyline_at_Night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2914,12 +2914,12 @@ window.PHOTOS = {
    "page": "https://commons.wikimedia.org/wiki/File:Queenstown_Skyline_at_Night.jpg"
   },
   {
-   "src": "https://live.staticflickr.com/1316/5139247253_3e0c1ba500_b.jpg",
+   "src": "https://live.staticflickr.com/8097/8523594022_2e0cfdac60_b.jpg",
    "source": "openverse",
-   "id": "openverse:f44b628f-84be-4e1a-9b02-ef6a95295a3b",
-   "artist": "WanderingtheWorld (www.ChrisFord.com)",
-   "license": "CC BY-NC 2.0",
-   "page": "https://www.flickr.com/photos/44028103@N07/5139247253"
+   "id": "openverse:82debe8a-44aa-42d9-90be-7c774942cfa2",
+   "artist": "Trey Ratcliff",
+   "license": "CC BY-NC-SA 2.0",
+   "page": "https://www.flickr.com/photos/95572727@N00/8523594022"
   },
   {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Queenstown_%285862637465%29.jpg/1280px-Queenstown_%285862637465%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2930,12 +2930,12 @@ window.PHOTOS = {
    "page": "https://commons.wikimedia.org/wiki/File:Queenstown_(5862637465).jpg"
   },
   {
-   "src": "https://live.staticflickr.com/8427/7734140768_2227a9c16e_b.jpg",
+   "src": "https://live.staticflickr.com/1316/5139247253_3e0c1ba500_b.jpg",
    "source": "openverse",
-   "id": "openverse:2d5b8642-5ee5-49c0-87f1-f623ff5ac6ee",
-   "artist": "Trey Ratcliff",
-   "license": "CC BY-NC-SA 2.0",
-   "page": "https://www.flickr.com/photos/95572727@N00/7734140768"
+   "id": "openverse:f44b628f-84be-4e1a-9b02-ef6a95295a3b",
+   "artist": "WanderingtheWorld (www.ChrisFord.com)",
+   "license": "CC BY-NC 2.0",
+   "page": "https://www.flickr.com/photos/44028103@N07/5139247253"
   },
   {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Queenstown_%285863188430%29.jpg/1280px-Queenstown_%285863188430%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2946,12 +2946,12 @@ window.PHOTOS = {
    "page": "https://commons.wikimedia.org/wiki/File:Queenstown_(5863188430).jpg"
   },
   {
-   "src": "https://live.staticflickr.com/65535/50189816506_c3e68e21fa_b.jpg",
-   "source": "openverse",
-   "id": "openverse:77b0af55-d120-4f03-b88b-413fb43df12a",
-   "artist": "Trey Ratcliff",
-   "license": "CC BY-NC-SA 2.0",
-   "page": "https://www.flickr.com/photos/95572727@N00/50189816506"
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Queenstown_%285862636969%29.jpg/1280px-Queenstown_%285862636969%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Queenstown (5862636969).jpg",
+   "artist": "Steve Collis from Melbourne, Australia",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Queenstown_(5862636969).jpg"
   }
  ],
  "mil:Fjord cruise or scenic flight": [
@@ -3735,22 +3735,30 @@ window.PHOTOS = {
  "melb:Brewery taprooms": [],
  "melb:Four Pillars gin, Healesville": [
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Healesville_Grand_Hotel.JPG/1280px-Healesville_Grand_Hotel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "source": "commons",
-   "id": "File:Healesville Grand Hotel.JPG",
-   "artist": "Mattinbgn",
-   "license": "CC BY-SA 3.0",
-   "page": "https://commons.wikimedia.org/wiki/File:Healesville_Grand_Hotel.JPG"
+   "src": "https://live.staticflickr.com/65535/52271813856_46d1bd1574_b.jpg",
+   "source": "openverse",
+   "id": "openverse:da05a6ed-5318-44b3-b3ef-72c7b0419b2e",
+   "artist": "Simon_sees",
+   "license": "CC BY 2.0",
+   "page": "https://www.flickr.com/photos/39551170@N02/52271813856"
   }
  ],
  "gor:Timboon distillery and food trail": [
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Timboon_Shops_002.JPG/1280px-Timboon_Shops_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Timboon_Distillery_001.JPG/1280px-Timboon_Distillery_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "commons",
-   "id": "File:Timboon Shops 002.JPG",
+   "id": "File:Timboon Distillery 001.JPG",
    "artist": "Mattinbgn (talk · contribs)",
    "license": "CC BY 3.0",
-   "page": "https://commons.wikimedia.org/wiki/File:Timboon_Shops_002.JPG"
+   "page": "https://commons.wikimedia.org/wiki/File:Timboon_Distillery_001.JPG"
+  },
+  {
+   "src": "https://live.staticflickr.com/7539/15862480661_0a2072821c.jpg",
+   "source": "openverse",
+   "id": "openverse:1914b936-dac8-43fb-9936-6ae8b7c915a6",
+   "artist": "Jose TC",
+   "license": "CC BY-NC-SA 2.0",
+   "page": "https://www.flickr.com/photos/69194941@N02/15862480661"
   }
  ],
  "gor:Forrest Brewing": [
@@ -4018,6 +4026,30 @@ window.PHOTOS = {
   }
  ],
  "tas:Huon Valley cider": [
+  {
+   "src": "https://live.staticflickr.com/2849/12897990405_c0f6587da8_b.jpg",
+   "source": "openverse",
+   "id": "openverse:80c739a4-0165-4b24-91fc-5dabf46daff9",
+   "artist": "Apple and Pear Australia Ltd",
+   "license": "CC BY 2.0",
+   "page": "https://www.flickr.com/photos/113312228@N06/12897990405"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Huon_Valley_Apple_Museum.jpg/1280px-Huon_Valley_Apple_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Huon Valley Apple Museum.jpg",
+   "artist": "jacobharrisau",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Huon_Valley_Apple_Museum.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Apple_cider_and_apple_display_in_Tasmania.jpg/1280px-Apple_cider_and_apple_display_in_Tasmania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Apple cider and apple display in Tasmania.jpg",
+   "artist": "Apple and Pear Australia Ltd",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Apple_cider_and_apple_display_in_Tasmania.jpg"
+  },
   {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Sleeping_Beauty_vista_in_the_Huon_Valley.jpg/1280px-Sleeping_Beauty_vista_in_the_Huon_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "commons",
@@ -6064,52 +6096,12 @@ window.PHOTOS = {
  ],
  "sydney:Harbour party boat": [
   {
-   "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Sydney%28from_air%29_V2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Sydney_%28AU%29%2C_Harbour_Bridge_--_2019_--_2190.jpg/1280px-Sydney_%28AU%29%2C_Harbour_Bridge_--_2019_--_2190.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "commons",
-   "id": "File:Sydney(from air) V2.jpg",
-   "artist": "No machine-readable author provided. Merbabu~commonswiki assumed (based on copyright claims).",
-   "license": "Public domain",
-   "page": "https://commons.wikimedia.org/wiki/File:Sydney(from_air)_V2.jpg"
-  },
-  {
-   "src": "https://live.staticflickr.com/4120/4943898133_4bb4451b78_b.jpg",
-   "source": "openverse",
-   "id": "openverse:fb61ce8a-61bb-44ea-93d3-4736379b2751",
-   "artist": "4ELEVEN Images",
-   "license": "CC BY-NC-ND 2.0",
-   "page": "https://www.flickr.com/photos/53145196@N06/4943898133"
-  },
-  {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg/1280px-Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "source": "commons",
-   "id": "File:Pierre-Auguste Renoir - Luncheon of the Boating Party - Google Art Project.jpg",
-   "artist": "Pierre-Auguste Renoir",
-   "license": "Public domain",
-   "page": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg"
-  },
-  {
-   "src": "https://live.staticflickr.com/2611/3899343124_bf8a75e153_b.jpg",
-   "source": "openverse",
-   "id": "openverse:a2cb5245-57d0-4a70-a4ed-58127aeeb5cb",
-   "artist": "MarkScottAustinTX",
-   "license": "CC BY-SA 2.0",
-   "page": "https://www.flickr.com/photos/57185608@N00/3899343124"
-  },
-  {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Pierre-Auguste-Renoir-The-Boating-Party-Lunch.jpg/1280px-Pierre-Auguste-Renoir-The-Boating-Party-Lunch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "source": "commons",
-   "id": "File:Pierre-Auguste-Renoir-The-Boating-Party-Lunch.jpg",
-   "artist": "Multiple Aurthors",
-   "license": "CC0",
-   "page": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste-Renoir-The-Boating-Party-Lunch.jpg"
-  },
-  {
-   "src": "https://live.staticflickr.com/4026/5148301382_8dc7cc878f_b.jpg",
-   "source": "openverse",
-   "id": "openverse:8bbaa236-2317-47a9-956a-79cf61d42fdf",
-   "artist": "4ELEVEN Images",
-   "license": "CC BY-NC-ND 2.0",
-   "page": "https://www.flickr.com/photos/53145196@N06/5148301382"
+   "id": "File:Sydney (AU), Harbour Bridge -- 2019 -- 2190.jpg",
+   "artist": "Dietmar Rabich",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Sydney_(AU),_Harbour_Bridge_--_2019_--_2190.jpg"
   },
   {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/A_party_boat_on_the_Thames_-_geograph.org.uk_-_1932950.jpg/1280px-A_party_boat_on_the_Thames_-_geograph.org.uk_-_1932950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -6120,20 +6112,60 @@ window.PHOTOS = {
    "page": "https://commons.wikimedia.org/wiki/File:A_party_boat_on_the_Thames_-_geograph.org.uk_-_1932950.jpg"
   },
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mary_Cassatt_-_The_Boating_Party_-_Google_Art_Project.jpg/1280px-Mary_Cassatt_-_The_Boating_Party_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "source": "commons",
-   "id": "File:Mary Cassatt - The Boating Party - Google Art Project.jpg",
-   "artist": "Mary Cassatt",
-   "license": "Public domain",
-   "page": "https://commons.wikimedia.org/wiki/File:Mary_Cassatt_-_The_Boating_Party_-_Google_Art_Project.jpg"
+   "src": "https://live.staticflickr.com/4120/4943898133_4bb4451b78_b.jpg",
+   "source": "openverse",
+   "id": "openverse:fb61ce8a-61bb-44ea-93d3-4736379b2751",
+   "artist": "4ELEVEN Images",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/53145196@N06/4943898133"
   },
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Suzumibune_gomai-e%3B_Ni-A_Party_of_Geisha_in_a_Suzumi-bune%2C_i.e._%22cooling-off_boat.%22_%28Second_Scene_of_a_Boating_Party%29_MET_DP114881.jpg/1280px-Suzumibune_gomai-e%3B_Ni-A_Party_of_Geisha_in_a_Suzumi-bune%2C_i.e._%22cooling-off_boat.%22_%28Second_Scene_of_a_Boating_Party%29_MET_DP114881.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Cassatt_Mary_The_Boating_Party_1893-94.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "source": "commons",
-   "id": "File:Suzumibune gomai-e; Ni-A Party of Geisha in a Suzumi-bune, i.e. \"cooling-off boat.\" (Second Scene of a Boating Party) MET DP114881.jpg",
-   "artist": "Eishōsai Chōki",
-   "license": "CC0",
-   "page": "https://commons.wikimedia.org/wiki/File:Suzumibune_gomai-e;_Ni-A_Party_of_Geisha_in_a_Suzumi-bune,_i.e._%22cooling-off_boat.%22_(Second_Scene_of_a_Boating_Party)_MET_DP114881.jpg"
+   "id": "File:Cassatt Mary The Boating Party 1893-94.jpg",
+   "artist": "Mary Cassatt",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Cassatt_Mary_The_Boating_Party_1893-94.jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/2611/3899343124_bf8a75e153_b.jpg",
+   "source": "openverse",
+   "id": "openverse:a2cb5245-57d0-4a70-a4ed-58127aeeb5cb",
+   "artist": "MarkScottAustinTX",
+   "license": "CC BY-SA 2.0",
+   "page": "https://www.flickr.com/photos/57185608@N00/3899343124"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Luncheon_of_the_Boating_Party_-_The_Phillips_Collection.jpg/1280px-Luncheon_of_the_Boating_Party_-_The_Phillips_Collection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Luncheon of the Boating Party - The Phillips Collection.jpg",
+   "artist": "Pierre-Auguste Renoir",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Luncheon_of_the_Boating_Party_-_The_Phillips_Collection.jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/4026/5148301382_8dc7cc878f_b.jpg",
+   "source": "openverse",
+   "id": "openverse:8bbaa236-2317-47a9-956a-79cf61d42fdf",
+   "artist": "4ELEVEN Images",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/53145196@N06/5148301382"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Simple_One_-_Block_Boat_Party_au_Petit_Bain_%2814430151105%29.jpg/1280px-Simple_One_-_Block_Boat_Party_au_Petit_Bain_%2814430151105%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Simple One - Block Boat Party au Petit Bain (14430151105).jpg",
+   "artist": "Coup d'Oreille",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Simple_One_-_Block_Boat_Party_au_Petit_Bain_(14430151105).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Simple_One_-_Block_Boat_Party_au_Petit_Bain_%2814407036236%29.jpg/1280px-Simple_One_-_Block_Boat_Party_au_Petit_Bain_%2814407036236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Simple One - Block Boat Party au Petit Bain (14407036236).jpg",
+   "artist": "Coup d'Oreille",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Simple_One_-_Block_Boat_Party_au_Petit_Bain_(14407036236).jpg"
   }
  ],
  "melb:Rooftop bars": [
@@ -6270,20 +6302,20 @@ window.PHOTOS = {
  ],
  "melb:Go karts at the Phillip Island GP circuit": [
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Mathew_Radisich_indycar_phillip_island_1.jpg/1280px-Mathew_Radisich_indycar_phillip_island_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "source": "commons",
-   "id": "File:Mathew Radisich indycar phillip island 1.jpg",
-   "artist": "Motorlover98",
-   "license": "CC BY-SA 4.0",
-   "page": "https://commons.wikimedia.org/wiki/File:Mathew_Radisich_indycar_phillip_island_1.jpg"
+   "src": "https://live.staticflickr.com/2078/1514492228_17dac648eb_b.jpg",
+   "source": "openverse",
+   "id": "openverse:086d7b5e-8fde-44cf-8c11-35719cac3b54",
+   "artist": "Andru1308",
+   "license": "CC BY-NC 2.0",
+   "page": "https://www.flickr.com/photos/67707199@N00/1514492228"
   },
   {
-   "src": "https://live.staticflickr.com/5615/15520141991_8eeba3873e_b.jpg",
+   "src": "https://live.staticflickr.com/2027/1514493934_f08a1bf021_b.jpg",
    "source": "openverse",
-   "id": "openverse:36a13891-3089-4f5b-ba1a-5d7d05a798d8",
-   "artist": "grahamtriggs",
-   "license": "CC BY-NC-ND 2.0",
-   "page": "https://www.flickr.com/photos/8701764@N02/15520141991"
+   "id": "openverse:e77e1892-af2c-4e73-b655-49a41c96d029",
+   "artist": "Andru1308",
+   "license": "CC BY-NC 2.0",
+   "page": "https://www.flickr.com/photos/67707199@N00/1514493934"
   },
   {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Old_cars_at_Phillip_Island_racing_carpark_OIC.jpg/1280px-Old_cars_at_Phillip_Island_racing_carpark_OIC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -6294,12 +6326,12 @@ window.PHOTOS = {
    "page": "https://commons.wikimedia.org/wiki/File:Old_cars_at_Phillip_Island_racing_carpark_OIC.jpg"
   },
   {
-   "src": "https://live.staticflickr.com/7141/6839342811_c5c0600d89_b.jpg",
+   "src": "https://live.staticflickr.com/5615/15520141991_8eeba3873e_b.jpg",
    "source": "openverse",
-   "id": "openverse:edc5c37b-d86d-40e2-b6f2-3d2e8438d6d2",
-   "artist": "SqueakyMarmot",
-   "license": "CC BY-SA 2.0",
-   "page": "https://www.flickr.com/photos/37804160@N00/6839342811"
+   "id": "openverse:36a13891-3089-4f5b-ba1a-5d7d05a798d8",
+   "artist": "grahamtriggs",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/8701764@N02/15520141991"
   },
   {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Phillip_Island2.jpg/1280px-Phillip_Island2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -6310,12 +6342,12 @@ window.PHOTOS = {
    "page": "https://commons.wikimedia.org/wiki/File:Phillip_Island2.jpg"
   },
   {
-   "src": "https://live.staticflickr.com/7026/6839341921_8670f323a2_b.jpg",
+   "src": "https://live.staticflickr.com/7141/6839342811_c5c0600d89_b.jpg",
    "source": "openverse",
-   "id": "openverse:366e00d4-6d64-4f18-a47f-70ec46f8ad66",
+   "id": "openverse:edc5c37b-d86d-40e2-b6f2-3d2e8438d6d2",
    "artist": "SqueakyMarmot",
    "license": "CC BY-SA 2.0",
-   "page": "https://www.flickr.com/photos/37804160@N00/6839341921"
+   "page": "https://www.flickr.com/photos/37804160@N00/6839342811"
   },
   {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Gardner_Straight_at_Phillip_Island_GP_Circuit_%2816230483074%29.jpg/1280px-Gardner_Straight_at_Phillip_Island_GP_Circuit_%2816230483074%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -6326,12 +6358,12 @@ window.PHOTOS = {
    "page": "https://commons.wikimedia.org/wiki/File:Gardner_Straight_at_Phillip_Island_GP_Circuit_(16230483074).jpg"
   },
   {
-   "src": "https://live.staticflickr.com/7171/6542970333_5804d973a4_b.jpg",
+   "src": "https://live.staticflickr.com/7026/6839341921_8670f323a2_b.jpg",
    "source": "openverse",
-   "id": "openverse:ef139ce4-2545-40ee-bf28-86dd7fc3ce43",
-   "artist": "JC Merriman",
-   "license": "CC BY-NC-SA 2.0",
-   "page": "https://www.flickr.com/photos/8822983@N08/6542970333"
+   "id": "openverse:366e00d4-6d64-4f18-a47f-70ec46f8ad66",
+   "artist": "SqueakyMarmot",
+   "license": "CC BY-SA 2.0",
+   "page": "https://www.flickr.com/photos/37804160@N00/6839341921"
   },
   {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2017_Paul_Dumbrell.jpg/1280px-2017_Paul_Dumbrell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -6342,12 +6374,12 @@ window.PHOTOS = {
    "page": "https://commons.wikimedia.org/wiki/File:2017_Paul_Dumbrell.jpg"
   },
   {
-   "src": "https://live.staticflickr.com/5502/10392888265_5f034e4fa6_b.jpg",
+   "src": "https://live.staticflickr.com/7171/6542970333_5804d973a4_b.jpg",
    "source": "openverse",
-   "id": "openverse:ea6abc8a-3748-4106-9294-0255bfd59a1f",
-   "artist": "Visible Procrastinations",
-   "license": "CC BY-NC 2.0",
-   "page": "https://www.flickr.com/photos/63467359@N00/10392888265"
+   "id": "openverse:ef139ce4-2545-40ee-bf28-86dd7fc3ce43",
+   "artist": "JC Merriman",
+   "license": "CC BY-NC-SA 2.0",
+   "page": "https://www.flickr.com/photos/8822983@N08/6542970333"
   },
   {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Phillip_Island_Circuit_MG_corner.jpg/1280px-Phillip_Island_Circuit_MG_corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -6358,22 +6390,22 @@ window.PHOTOS = {
    "page": "https://commons.wikimedia.org/wiki/File:Phillip_Island_Circuit_MG_corner.jpg"
   },
   {
-   "src": "https://live.staticflickr.com/728/22355672455_633c15654d_b.jpg",
-   "source": "openverse",
-   "id": "openverse:c294ff22-5cd2-47ad-af94-6def0d2fbb58",
-   "artist": "Visible Procrastinations",
-   "license": "CC BY-NC 2.0",
-   "page": "https://www.flickr.com/photos/63467359@N00/22355672455"
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Phillip_Island_Aerial_View.jpg/1280px-Phillip_Island_Aerial_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Phillip Island Aerial View.jpg",
+   "artist": "Tom Reynolds from Melbourne, Australia",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Phillip_Island_Aerial_View.jpg"
   }
  ],
  "qt:Kiwi Crawl bar crawl": [
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Queenstown_1_%288168013172%29.jpg/1280px-Queenstown_1_%288168013172%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "source": "commons",
-   "id": "File:Queenstown 1 (8168013172).jpg",
-   "artist": "Bernard Spragg. NZ from Christchurch, New Zealand",
-   "license": "CC0",
-   "page": "https://commons.wikimedia.org/wiki/File:Queenstown_1_(8168013172).jpg"
+   "src": "https://live.staticflickr.com/172/386111088_e79bd0f141_b.jpg",
+   "source": "openverse",
+   "id": "openverse:3be391ab-6793-47f0-9520-6d896b49ca1a",
+   "artist": "Ruth and Dave",
+   "license": "CC BY 2.0",
+   "page": "https://www.flickr.com/photos/95142644@N00/386111088"
   }
  ],
  "qt:Highlands Motorsport Park": [
@@ -7778,20 +7810,20 @@ window.PHOTOS = {
  ],
  "wlg:Craft beer capital": [
   {
-   "src": "https://live.staticflickr.com/65535/51591598107_6e1815393e_b.jpg",
+   "src": "https://live.staticflickr.com/8230/8480559925_5d844f654e_b.jpg",
    "source": "openverse",
-   "id": "openverse:b97c87b7-ac8a-4af7-957c-9f30e52b47cb",
-   "artist": "Neil. Moralee",
+   "id": "openverse:84dca96f-9e5d-4d3c-ba21-4b53b82f5918",
+   "artist": "wasabicube",
    "license": "CC BY-NC-ND 2.0",
-   "page": "https://www.flickr.com/photos/62586117@N05/51591598107"
+   "page": "https://www.flickr.com/photos/51035744561@N01/8480559925"
   },
   {
-   "src": "https://live.staticflickr.com/3840/14974604545_c981ee5fe8_b.jpg",
+   "src": "https://live.staticflickr.com/3859/14788049827_737fc35b5d_b.jpg",
    "source": "openverse",
-   "id": "openverse:038eecd5-62ed-4848-a639-04fdb030f98f",
+   "id": "openverse:ae43d8b4-d144-4d3f-bd20-51e8ac2a977b",
    "artist": "US Embassy New Zealand",
    "license": "Public domain",
-   "page": "https://www.flickr.com/photos/46907600@N02/14974604545"
+   "page": "https://www.flickr.com/photos/46907600@N02/14788049827"
   }
  ],
  "wlg:Cuba Street nights": [

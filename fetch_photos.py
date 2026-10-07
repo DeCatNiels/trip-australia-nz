@@ -12,7 +12,7 @@ photos from yet, unless named with --force.
 Per activity in activities.js:
   wiki     Wikipedia article whose lead image becomes the cover photo
   search   search terms for the gallery photos (both sources)
-  pin      optional list of Commons file titles ("File:...") shown first
+  pin      optional list of photos shown first: Commons file titles ("File:...") or Openverse ids ("openverse:...")
   exclude  optional list of photo ids to never use (the "id" field in photos.js)
   photosOf optional list of other cards ("stop:name") whose photos this card shows; not fetched
 
@@ -140,7 +140,7 @@ def commons_infos(titles):
 
 
 def from_commons(activity, count):
-    pinned = activity.get("pin", [])
+    pinned = [p for p in activity.get("pin", []) if p.startswith("File:")]
     candidates = list(pinned)
     if activity.get("wiki"):
         data = wiki_api("en.wikipedia.org", action="query", titles=activity["wiki"], redirects=1,
@@ -176,30 +176,37 @@ def openverse_license(r):
     return f"CC {name.upper()} {r.get('license_version') or ''}".strip()
 
 
+def openverse_info(r):
+    return {
+        "id": "openverse:" + r["id"],
+        "url": r["url"],
+        "page": r.get("foreign_landing_url") or r["url"],
+        "artist": r.get("creator") or "",
+        "license": openverse_license(r),
+    }
+
+
 def from_openverse(activity, count):
+    pinned = [p for p in activity.get("pin", []) if p.startswith("openverse:")]
+    picked = [openverse_info(json.loads(get(f"https://api.openverse.org/v1/images/{p.split(':', 1)[1]}/")))
+              for p in pinned]
     params = {"q": activity.get("search") or activity["wiki"], "page_size": 20,
               "excluded_source": "wikimedia", "mature": "false"}
     data = json.loads(get("https://api.openverse.org/v1/images/?" + urllib.parse.urlencode(params)))
     exclude = set(activity.get("exclude", []))
-    picked, seen_titles = [], set()
+    seen_titles = set()
     for r in data.get("results", []):
+        if len(picked) >= count:
+            break
         pid = "openverse:" + r["id"]
         title = (r.get("title") or "").strip().lower()
-        if pid in exclude or (title and title in seen_titles):
+        if pid in exclude or pid in pinned or (title and title in seen_titles):
             continue
         tags = {t["name"].lower() for t in r.get("tags") or []}
         if not good_shape(r.get("width"), r.get("height")) or SKIP_TITLE.search(title) or tags & SKIP_TAGS:
             continue
         seen_titles.add(title)
-        picked.append({
-            "id": pid,
-            "url": r["url"],
-            "page": r.get("foreign_landing_url") or r["url"],
-            "artist": r.get("creator") or "",
-            "license": openverse_license(r),
-        })
-        if len(picked) == count:
-            break
+        picked.append(openverse_info(r))
     return picked
 
 
@@ -232,10 +239,11 @@ def write_manifest(manifest):
     )
 
 
-def interleave(entries):
-    """Commons first (it holds the cover photo), then alternate between sources."""
-    by_source = {s: [e for e in entries if e["source"] == s] for s in SOURCES}
-    return [e for group in zip_longest(*by_source.values()) for e in group if e]
+def interleave(entries, pin):
+    """Pinned photos first, in the given order (the first is the cover), then alternate between sources."""
+    pinned = sorted((e for e in entries if e["id"] in pin), key=lambda e: pin.index(e["id"]))
+    by_source = {s: [e for e in entries if e["source"] == s and e["id"] not in pin] for s in SOURCES}
+    return pinned + [e for group in zip_longest(*by_source.values()) for e in group if e]
 
 
 def fetch(activity, source, count):
@@ -284,7 +292,7 @@ def main():
         new = fetch(activity, source, args.count)
         with manifest_lock:
             kept = [e for e in manifest.get(key, []) if e["source"] != source]
-            manifest[key] = interleave(kept + new)
+            manifest[key] = interleave(kept + new, activity.get("pin", []))
             write_manifest(manifest)
         return len(new)
 

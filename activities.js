@@ -110,7 +110,8 @@ window.STOPS = [
           "File:Árokszállási Ras Tamás, Ladánybene 27, 2011 (4).jpg",
           "openverse:eec7c938-4601-4c29-bdaa-b362e3f642c1",
           "openverse:c8678a7c-94eb-4c2f-b30b-1bb8363d8df1",
-          "openverse:35f9d724-bf76-447b-8924-985e956d991b"
+          "openverse:35f9d724-bf76-447b-8924-985e956d991b",
+          "File:Dextrous Switzerland.jpg"
         ],
         "coords": [
           -33.87,
@@ -208,11 +209,17 @@ window.STOPS = [
           "File:Pierre-Auguste Renoir - Luncheon of the Boating Party - Google Art Project.jpg",
           "File:Pierre-Auguste-Renoir-The-Boating-Party-Lunch.jpg",
           "File:Mary Cassatt - The Boating Party - Google Art Project.jpg",
-          "File:Suzumibune gomai-e; Ni-A Party of Geisha in a Suzumi-bune, i.e. \"cooling-off boat.\" (Second Scene of a Boating Party) MET DP114881.jpg"
+          "File:Suzumibune gomai-e; Ni-A Party of Geisha in a Suzumi-bune, i.e. \"cooling-off boat.\" (Second Scene of a Boating Party) MET DP114881.jpg",
+          "File:Sydney(from air) V2.jpg",
+          "File:Cassatt Mary The Boating Party 1893-94.jpg",
+          "File:Luncheon of the Boating Party - The Phillips Collection.jpg"
         ],
         "coords": [
           -33.8679,
           151.2019
+        ],
+        "pin": [
+          "File:Sydney (AU), Harbour Bridge -- 2019 -- 2190.jpg"
         ]
       },
       {
@@ -338,6 +345,13 @@ window.STOPS = [
         "coords": [
           -37.864,
           144.969
+        ],
+        "exclude": [
+          "File:St Kilda Pier and Kiosk with Catani Gardens in foreground - panoramio.jpg",
+          "openverse:19b95753-e251-4a0c-8fb6-e10aee918fe5",
+          "File:St kilda Beach.jpg",
+          "openverse:68b50082-a67d-46f9-8705-9e6c51d23957",
+          "File:Melbourne New Year 2014 (11669464283).jpg"
         ]
       },
       {
@@ -424,6 +438,12 @@ window.STOPS = [
         "coords": [
           -37.6545,
           145.5155
+        ],
+        "pin": [
+          "openverse:da05a6ed-5318-44b3-b3ef-72c7b0419b2e"
+        ],
+        "exclude": [
+          "File:Healesville Grand Hotel.JPG"
         ]
       },
       {
@@ -440,6 +460,11 @@ window.STOPS = [
         "coords": [
           -37.8118,
           144.9658
+        ],
+        "exclude": [
+          "File:Melbourne 2013-Aug 057c.jpg",
+          "openverse:8831ee9f-59d9-4ff9-95c9-225d3afa0740",
+          "File:Southbank pano from Fleet Rooftop Bar.jpg"
         ]
       },
       {
@@ -472,6 +497,13 @@ window.STOPS = [
         "coords": [
           -38.498,
           145.234
+        ],
+        "pin": [
+          "openverse:086d7b5e-8fde-44cf-8c11-35719cac3b54",
+          "openverse:e77e1892-af2c-4e73-b655-49a41c96d029"
+        ],
+        "exclude": [
+          "File:Mathew Radisich indycar phillip island 1.jpg"
         ]
       }
     ]
@@ -559,6 +591,13 @@ window.STOPS = [
         "coords": [
           -38.484,
           142.978
+        ],
+        "pin": [
+          "File:Timboon Distillery 001.JPG",
+          "openverse:1914b936-dac8-43fb-9936-6ae8b7c915a6"
+        ],
+        "exclude": [
+          "File:Timboon Shops 002.JPG"
         ]
       },
       {
@@ -760,6 +799,11 @@ window.STOPS = [
         "coords": [
           -42.985,
           147.075
+        ],
+        "pin": [
+          "openverse:80c739a4-0165-4b24-91fc-5dabf46daff9",
+          "File:Huon Valley Apple Museum.jpg",
+          "File:Apple cider and apple display in Tasmania.jpg"
         ]
       }
     ]
@@ -850,7 +894,13 @@ window.STOPS = [
           "drinks"
         ],
         "wiki": "Beer in Australia",
-        "search": "Australian pub beer"
+        "search": "Australian pub beer",
+        "exclude": [
+          "File:The Pub With No Beer Sign - Taken on the Wednesday, 21st April 2010 at 12-47pm. - panoramio.jpg",
+          "File:The Picnic Area at the Pub with No Beer - Taken on the Wednesday, 21st April 2010 at 12-59pm. - panoramio.jpg",
+          "File:The Pub with No Beer Sign Post (Closer Verison) - Taken on the Wednesday, 21st April 2010 at 12-33pm. - panoramio.jpg",
+          "File:The Pub with No Beer Sign Post (Further Verison) - Taken on the Wednesday, 21st April 2010 at 12-27pm. - panoramio.jpg"
+        ]
       },
       {
         "name": "Australian wine",
@@ -972,6 +1022,13 @@ window.STOPS = [
         "coords": [
           -45.032,
           168.66
+        ],
+        "pin": [
+          "openverse:9c7bba80-fc11-4671-b050-9e765ea2f202",
+          "openverse:f22bf5ad-db07-4ecc-895f-747d4a96f733"
+        ],
+        "exclude": [
+          "File:Queenstown 1 (8168013172).jpg"
         ]
       },
       {
@@ -1004,6 +1061,9 @@ window.STOPS = [
         "coords": [
           -45.014,
           168.95
+        ],
+        "exclude": [
+          "File:RipponVineyard.jpg"
         ]
       },
       {
@@ -1019,6 +1079,12 @@ window.STOPS = [
         "coords": [
           -45.0315,
           168.6615
+        ],
+        "pin": [
+          "openverse:3be391ab-6793-47f0-9520-6d896b49ca1a"
+        ],
+        "exclude": [
+          "File:Queenstown 1 (8168013172).jpg"
         ]
       },
       {
@@ -1035,6 +1101,14 @@ window.STOPS = [
         "coords": [
           -45.037,
           169.19
+        ],
+        "exclude": [
+          "File:Highlands Motorsport Park (Full Course).png",
+          "openverse:bbb233e3-e582-4569-a518-de17d41d02e1",
+          "File:Lexus LC 500 & LC 500h interior (cropped).jpg",
+          "openverse:863e3873-5dc4-4568-8244-0bbc3395f8e0",
+          "File:Lexus LC 500 & LC 500h interior.jpg",
+          "openverse:a54c505e-135f-42cc-b170-e5c21ef3d183"
         ]
       }
     ]
@@ -1293,6 +1367,11 @@ window.STOPS = [
         "coords": [
           -36.8435,
           174.765
+        ],
+        "exclude": [
+          "File:Dextrous Switzerland.jpg",
+          "openverse:acff3b68-b576-4b97-8396-76ab9ab62f12",
+          "openverse:b400a4eb-47aa-40c9-b562-0c4c74261201"
         ]
       },
       {
@@ -1514,7 +1593,11 @@ window.STOPS = [
           174.769
         ],
         "exclude": [
-          "openverse:038eecd5-62ed-4848-a639-04fdb030f98f"
+          "openverse:038eecd5-62ed-4848-a639-04fdb030f98f",
+          "openverse:b97c87b7-ac8a-4af7-957c-9f30e52b47cb"
+        ],
+        "pin": [
+          "openverse:84dca96f-9e5d-4d3c-ba21-4b53b82f5918"
         ]
       },
       {
