@@ -19,6 +19,8 @@ if (shared !== null) {
 
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const more = (name, stop) => "https://www.google.com/search?tbm=isch&q=" + encodeURIComponent(name + " " + stop);
+// Searching by name opens the place's own Google Maps page, with its reviews and visitors' photos
+const mapsLink = (stop, a) => "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(a.maps || a.name + ", " + stop.name);
 const activityId = (stop, activity) => stop.id + ":" + activity.name;
 // A merged card shows the photos of the cards it replaced, taking turns between them
 function photosFor(stop, activity) {
@@ -53,7 +55,7 @@ document.getElementById("main").innerHTML = stops.map(s => `
       <button class="ph" ${list.length ? "" : "disabled"} aria-label="Show photos of ${esc(a.name)}">${cover}</button>
       ${theirs.has(id) ? `<span class="friend">Friend ✓</span>` : ""}
       <div class="body"><span class="name">${esc(a.name)}</span>${(a.tags || []).map(t => `<span class="tag ${t}">${TAGS[t]}</span>`).join("")}
-        <div class="desc">${esc(a.description)} <a href="${more(a.name, s.name)}" target="_blank" rel="noopener">More photos</a></div></div>
+        <div class="desc">${esc(a.description)} <a href="${more(a.name, s.name)}" target="_blank" rel="noopener">More photos</a>${a.coords ? ` <a href="${esc(mapsLink(s, a))}" target="_blank" rel="noopener">Google Maps</a>` : ""}${a.link ? ` <a href="${esc(a.link)}" target="_blank" rel="noopener">Website</a>` : ""}</div></div>
       <button class="star" aria-pressed="${stars.has(id)}" aria-label="Star ${esc(a.name)}">★</button>
     </li>`;
   }).join("")}</ul>
@@ -115,7 +117,7 @@ if (window.L) {
     const id = activityId(s, a);
     markers[id] = { stop: s, marker: L.circleMarker(a.coords, dotStyle(s, stars.has(id)))
       .bindTooltip(esc(a.name))
-      .bindPopup(`<b>${esc(a.name)}</b><br>${esc(s.name)}<br><a href="#" data-goto="${esc(id)}">Show the card</a>`)
+      .bindPopup(`<b>${esc(a.name)}</b><br>${esc(s.name)}<br><a href="#" data-goto="${esc(id)}">Show the card</a> · <a href="${esc(mapsLink(s, a))}" target="_blank" rel="noopener">Google Maps</a>`)
       .addTo(map) };
   }));
   map.fitBounds(L.featureGroup(Object.values(markers).map(m => m.marker)).getBounds(), { padding: [20, 20] });

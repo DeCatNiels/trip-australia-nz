@@ -11,7 +11,7 @@ Open `index.html` in a browser. No server or build step needed.
 - "Show starred only" filters the board down to your picks.
 - The label buttons under it (Hiking, Nature & wildlife, Sights, …) show one label at a time; click again to clear. They combine with the other filters. Each activity's `tags` in `activities.js` is a list of label keys; the keys and their names are in `TAGS` in `app.js`, colours in `style.css`.
 - "Share my picks" copies a link with your stars in it (`#picks=...`). Whoever opens it sees a "Friend ✓" badge on your picks, a count of picks in common, and a "Both picked" filter. A newer link replaces the previous one. Share the hosted URL, not a local `file://` one.
-- The map shows every place as a dot (blue Australia, teal New Zealand, yellow when starred). Click a dot, then "Show the card" to jump to it. Each activity's `coords` in `activities.js` is `[latitude, longitude]`; food lists have none.
+- The map shows every place as a dot (blue Australia, teal New Zealand, yellow when starred). Click a dot, then "Show the card" to jump to it. Each activity's `coords` in `activities.js` is `[latitude, longitude]`; food lists have none. Each place card also links to Google Maps, searching for its `maps` text (or the card name plus the stop name) so the place's own Maps page opens, with visitors' photos. An optional `link` adds a "Website" link to the official or event site.
 - "Before we go" (above the board) opens the checklist of things to check before leaving: passports and entry (eVisitor, NZeTA), biosecurity, health, insurance, money and cards, driving, phone and power. Tick items off as you go; ticks are saved in your own browser only. Rules and fees change, so check the linked official sites close to booking.
 
 ## Files
