@@ -1795,5 +1795,33 @@ window.STOPS = [
         "search": "New Zealand craft beer"
       }
     ]
+  },
+  {
+    "id": "road",
+    "name": "Road trip",
+    "country": "Australia and New Zealand",
+    "kind": "road",
+    "note": "A few days by car or campervan",
+    "activities": [
+      {
+        "name": "Road trip",
+        "emoji": "🚐",
+        "description": "Rent a car or a campervan for a few days and stop wherever looks good. A campervan is also the bed: holiday parks and campsites are everywhere, with showers and kitchens. Classic stretches are the Great Ocean Road in Australia and the South Island of New Zealand (lakes, Mount Cook, the road to Milford Sound). Both countries drive on the left.",
+        "tags": [
+          "adventure",
+          "nature"
+        ],
+        "wiki": "Campervan",
+        "search": "campervan New Zealand road",
+        "pin": [
+          "File:010 Freedom camping in New Zealand - parked campervan RVs in West Coast NZ.jpg"
+        ],
+        "exclude": [
+          "File:1984 Mazda B2000 Campervan (7184403877).jpg",
+          "File:BMC FG Campervan (9641246389).jpg",
+          "File:1975 Nissan Caball Campervan (16720127816).jpg"
+        ]
+      }
+    ]
   }
 ];
