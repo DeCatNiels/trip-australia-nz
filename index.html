@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Australia + New Zealand — December ideas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Australia + New Zealand, first three weeks of December</h1>
+    <p class="sub">Everything we could do, stop by stop. Click a photo to see more. Star the ones you want, then "Share my picks" and send me the link so we can compare lists.</p>
+    <div class="bar">
+      <button id="onlyBtn" aria-pressed="false">Show starred only</button>
+      <button id="bothBtn" aria-pressed="false" hidden>Both picked</button>
+      <button id="shareBtn">Share my picks</button>
+      <span id="count">0 starred</span>
+    </div>
+  </header>
+  <div id="map" aria-label="Map of all the places"></div>
+  <details id="prep" class="prep">
+    <summary><span class="prep-title">Before we go</span> <span id="prepCount"></span></summary>
+    <p class="intro">Documents, health, insurance and money, for Belgian passports. Ticks are saved in your own browser.</p>
+    <div id="prepList"></div>
+  </details>
+  <main id="main"></main>
+  <footer>Photos from Wikimedia Commons and Flickr, credited in the photo viewer. Stars are saved in your own browser only, so each of us keeps a separate list. Opening a shared link shows the other person's picks next to yours.</footer>
+</div>
+
+<dialog id="viewer" aria-label="Photos">
+  <div class="v-top">
+    <div><b id="vName"></b> <span id="vCount"></span></div>
+    <button class="v-close" id="vClose" aria-label="Close">✕</button>
+  </div>
+  <div class="v-stage" id="vStage">
+    <button class="v-nav prev" id="vPrev" aria-label="Previous photo">‹</button>
+    <img id="vImg" alt="">
+    <button class="v-nav next" id="vNext" aria-label="Next photo">›</button>
+  </div>
+  <p class="v-credit" id="vCredit"></p>
+  <div class="v-thumbs" id="vThumbs"></div>
+</dialog>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="activities.js"></script>
+<script src="photos.js"></script>
+<script src="checklist.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
