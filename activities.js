@@ -1101,8 +1101,12 @@ window.STOPS = [
         "tags": [
           "food"
         ],
-        "wiki": "Lake Pukaki",
-        "search": "Lake Pukaki Aoraki",
+        "search": "Mt Cook Alpine Salmon",
+        "pin": [
+          "File:Salmon Sashimi (38284471226).jpg",
+          "File:Salmon Sashimi 02.jpg",
+          "File:Salmon sashimi slices.jpg"
+        ],
         "coords": [
           -44.1885,
           170.135
@@ -1126,7 +1130,19 @@ window.STOPS = [
           "adventure"
         ],
         "wiki": "Sky Tower (Auckland)",
-        "search": "Sky Tower Auckland",
+        "search": "SkyJump Sky Tower",
+        "pin": [
+          "File:NZL-Auckl-Skytower-Basejumping.jpg"
+        ],
+        "exclude": [
+          "File:SkyJump Las Vegas.jpg",
+          "File:Bergiselschanze Restaurant 1.JPG",
+          "File:Bergiselschanze Restaurant 2.JPG",
+          "openverse:0b60d042-f68a-4f33-9c07-a08067acb8b1",
+          "File:Tower (160702997).jpeg",
+          "File:Westminster tube roundel and Elizabeth Tower 2006-10-30.jpg",
+          "File:Sky Soldier, New York City Native, Reflects on 9-11 (9290220).jpg"
+        ],
         "coords": [
           -36.8485,
           174.7622

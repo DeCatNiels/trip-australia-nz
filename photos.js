@@ -5104,100 +5104,44 @@ window.PHOTOS = {
  ],
  "mtc:Alpine salmon at Lake Pukaki": [
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/LakePukakiNov232024_01.jpg/1280px-LakePukakiNov232024_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Salmon_Sashimi_%2838284471226%29.jpg/1280px-Salmon_Sashimi_%2838284471226%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "commons",
-   "id": "File:LakePukakiNov232024 01.jpg",
-   "artist": "Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר",
-   "license": "CC BY-SA 4.0",
-   "page": "https://commons.wikimedia.org/wiki/File:LakePukakiNov232024_01.jpg"
+   "id": "File:Salmon Sashimi (38284471226).jpg",
+   "artist": "NuCastiel from Bangkok, Thailand",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Salmon_Sashimi_(38284471226).jpg"
   },
   {
-   "src": "https://live.staticflickr.com/65535/52278986757_101e4b401b_b.jpg",
+   "src": "https://live.staticflickr.com/65535/52301594787_d565f112d2_b.jpg",
    "source": "openverse",
-   "id": "openverse:414560fc-ff11-4c76-9117-de05f7f31ec4",
+   "id": "openverse:e66e9d7b-94b9-430c-8dec-73794602fe44",
    "artist": "flyingkiwigirl",
    "license": "CC BY-NC-ND 2.0",
-   "page": "https://www.flickr.com/photos/11708891@N07/52278986757"
+   "page": "https://www.flickr.com/photos/11708891@N07/52301594787"
   },
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Lake_Pukaki_21.jpg/1280px-Lake_Pukaki_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Salmon_Sashimi_02.jpg/1280px-Salmon_Sashimi_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "commons",
-   "id": "File:Lake Pukaki 21.jpg",
-   "artist": "Krzysztof Golik",
-   "license": "CC BY-SA 4.0",
-   "page": "https://commons.wikimedia.org/wiki/File:Lake_Pukaki_21.jpg"
+   "id": "File:Salmon Sashimi 02.jpg",
+   "artist": "ノボホショコロトソ",
+   "license": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Salmon_Sashimi_02.jpg"
   },
   {
-   "src": "https://live.staticflickr.com/36/83839151_b0a35b5233_b.jpg",
+   "src": "https://live.staticflickr.com/7183/7020112541_a906ea4c6c_b.jpg",
    "source": "openverse",
-   "id": "openverse:7b68a282-19f8-4503-bc89-2e61c53f29a9",
-   "artist": "Rita Willaert",
-   "license": "CC BY-NC 2.0",
-   "page": "https://www.flickr.com/photos/14417999@N00/83839151"
+   "id": "openverse:99769cb0-e0a2-4904-a1d8-a6e7e96a9743",
+   "artist": "chee.hong",
+   "license": "CC BY 2.0",
+   "page": "https://www.flickr.com/photos/40135642@N00/7020112541"
   },
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Lake_Pukaki_20.jpg/1280px-Lake_Pukaki_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Salmon_sashimi_slices.jpg/1280px-Salmon_sashimi_slices.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "commons",
-   "id": "File:Lake Pukaki 20.jpg",
-   "artist": "Krzysztof Golik",
+   "id": "File:Salmon sashimi slices.jpg",
+   "artist": "CNEcija12345",
    "license": "CC BY-SA 4.0",
-   "page": "https://commons.wikimedia.org/wiki/File:Lake_Pukaki_20.jpg"
-  },
-  {
-   "src": "https://live.staticflickr.com/65535/52624030578_6ef07645f1_b.jpg",
-   "source": "openverse",
-   "id": "openverse:a3af6699-dc55-42b9-ba4b-a0ff9ac20d7b",
-   "artist": "flyingkiwigirl",
-   "license": "CC BY-NC-ND 2.0",
-   "page": "https://www.flickr.com/photos/11708891@N07/52624030578"
-  },
-  {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Lake_Pukaki_24.jpg/1280px-Lake_Pukaki_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "source": "commons",
-   "id": "File:Lake Pukaki 24.jpg",
-   "artist": "Krzysztof Golik",
-   "license": "CC BY-SA 4.0",
-   "page": "https://commons.wikimedia.org/wiki/File:Lake_Pukaki_24.jpg"
-  },
-  {
-   "src": "https://live.staticflickr.com/1604/23683341930_831a447db7_b.jpg",
-   "source": "openverse",
-   "id": "openverse:edabd351-487c-4554-831b-cc31fffa6c4e",
-   "artist": "_Tola_",
-   "license": "CC BY-NC-SA 2.0",
-   "page": "https://www.flickr.com/photos/86569879@N00/23683341930"
-  },
-  {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Lake_Pukaki_%26_Aoraki_Mount_Cook_01.jpg/1280px-Lake_Pukaki_%26_Aoraki_Mount_Cook_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "source": "commons",
-   "id": "File:Lake Pukaki & Aoraki Mount Cook 01.jpg",
-   "artist": "Krzysztof Golik",
-   "license": "CC BY-SA 4.0",
-   "page": "https://commons.wikimedia.org/wiki/File:Lake_Pukaki_%26_Aoraki_Mount_Cook_01.jpg"
-  },
-  {
-   "src": "https://live.staticflickr.com/8517/8488328963_942ca71811_b.jpg",
-   "source": "openverse",
-   "id": "openverse:02146f1c-7b67-45b0-a1b6-dfb73c69bafb",
-   "artist": "kuowei",
-   "license": "CC BY-NC-SA 2.0",
-   "page": "https://www.flickr.com/photos/46874724@N00/8488328963"
-  },
-  {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Lake_Pukaki_%26_Aoraki_Mount_Cook_03.jpg/1280px-Lake_Pukaki_%26_Aoraki_Mount_Cook_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "source": "commons",
-   "id": "File:Lake Pukaki & Aoraki Mount Cook 03.jpg",
-   "artist": "Krzysztof Golik",
-   "license": "CC BY-SA 4.0",
-   "page": "https://commons.wikimedia.org/wiki/File:Lake_Pukaki_%26_Aoraki_Mount_Cook_03.jpg"
-  },
-  {
-   "src": "https://live.staticflickr.com/65535/54260503097_9466f2a3db_b.jpg",
-   "source": "openverse",
-   "id": "openverse:2f0e995a-1de1-4a43-abb2-e9a65fd50a1f",
-   "artist": "flyingkiwigirl",
-   "license": "CC BY-NC-ND 2.0",
-   "page": "https://www.flickr.com/photos/11708891@N07/54260503097"
+   "page": "https://commons.wikimedia.org/wiki/File:Salmon_sashimi_slices.jpg"
   }
  ],
  "eat-nz:Hāngī": [
@@ -6534,28 +6478,44 @@ window.PHOTOS = {
  ],
  "akl:Sky Tower and SkyJump": [
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Mayoral_Drive_in_Auckland.jpg/1280px-Mayoral_Drive_in_Auckland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/NZL-Auckl-Skytower-Basejumping.jpg/1280px-NZL-Auckl-Skytower-Basejumping.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "commons",
-   "id": "File:Mayoral Drive in Auckland.jpg",
-   "artist": "Krzysztof Golik",
-   "license": "CC BY-SA 4.0",
-   "page": "https://commons.wikimedia.org/wiki/File:Mayoral_Drive_in_Auckland.jpg"
+   "id": "File:NZL-Auckl-Skytower-Basejumping.jpg",
+   "artist": "Bgabel",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:NZL-Auckl-Skytower-Basejumping.jpg"
   },
   {
-   "src": "https://live.staticflickr.com/8234/8560592409_6f7fabddbc_b.jpg",
+   "src": "https://live.staticflickr.com/8096/8567002895_b5bcbef6ca_b.jpg",
    "source": "openverse",
-   "id": "openverse:2325750a-5c4b-4537-b5d6-45c4f97aca35",
+   "id": "openverse:909065f2-2dac-4452-88b6-2a1fe3aaf83c",
    "artist": "Kesara Rathnayake (kesara.lk)",
    "license": "CC BY-SA 2.0",
-   "page": "https://www.flickr.com/photos/67322444@N00/8560592409"
+   "page": "https://www.flickr.com/photos/67322444@N00/8567002895"
   },
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Tower_from_Mayoral_Drive.jpg/1280px-Sky_Tower_from_Mayoral_Drive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sky_Jump_%287187521210%29.jpg/1280px-Sky_Jump_%287187521210%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "commons",
-   "id": "File:Sky Tower from Mayoral Drive.jpg",
-   "artist": "Krzysztof Golik",
-   "license": "CC BY-SA 4.0",
-   "page": "https://commons.wikimedia.org/wiki/File:Sky_Tower_from_Mayoral_Drive.jpg"
+   "id": "File:Sky Jump (7187521210).jpg",
+   "artist": "Simon_sees from Australia",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Sky_Jump_(7187521210).jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/7209/14043455341_a37aef22bc_b.jpg",
+   "source": "openverse",
+   "id": "openverse:4a315cea-053c-4be5-a99e-67039b4552d7",
+   "artist": "Kath Halkett",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/40867899@N05/14043455341"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Sky_Jump_%287187518688%29.jpg/1280px-Sky_Jump_%287187518688%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Sky Jump (7187518688).jpg",
+   "artist": "Simon_sees from Australia",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Sky_Jump_(7187518688).jpg"
   },
   {
    "src": "https://live.staticflickr.com/4073/4915335603_5137e383c1_b.jpg",
@@ -6566,68 +6526,52 @@ window.PHOTOS = {
    "page": "https://www.flickr.com/photos/48889087714@N01/4915335603"
   },
   {
-   "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Auckland_Sky_Tower_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Tower_%28160702997%29.jpeg/1280px-Tower_%28160702997%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "commons",
-   "id": "File:Auckland Sky Tower closeup.jpg",
-   "artist": "Orderinchaos",
-   "license": "CC BY-SA 4.0",
-   "page": "https://commons.wikimedia.org/wiki/File:Auckland_Sky_Tower_closeup.jpg"
+   "id": "File:Tower (160702997).jpeg",
+   "artist": "Jmhernandez312",
+   "license": "CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tower_(160702997).jpeg"
   },
   {
-   "src": "https://live.staticflickr.com/5549/11219902623_41ed17d409_b.jpg",
+   "src": "https://live.staticflickr.com/3867/14807010745_2c1b9cab9b_b.jpg",
    "source": "openverse",
-   "id": "openverse:bf3d06ca-a2c7-4919-8677-f9bd02eca50e",
-   "artist": "Gengkii",
-   "license": "CC BY-NC-SA 2.0",
-   "page": "https://www.flickr.com/photos/61793969@N06/11219902623"
-  },
-  {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/2020_Auckland_Sky_Tower.jpg/1280px-2020_Auckland_Sky_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "source": "commons",
-   "id": "File:2020 Auckland Sky Tower.jpg",
-   "artist": "PLBechly",
-   "license": "CC BY-SA 4.0",
-   "page": "https://commons.wikimedia.org/wiki/File:2020_Auckland_Sky_Tower.jpg"
-  },
-  {
-   "src": "https://live.staticflickr.com/7026/6451754771_f6cfd2c349_b.jpg",
-   "source": "openverse",
-   "id": "openverse:251b96a1-e75a-4d75-9b99-6ecdd5d46898",
-   "artist": "OzMark17",
-   "license": "CC BY 2.0",
-   "page": "https://www.flickr.com/photos/10307586@N03/6451754771"
-  },
-  {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sky_Tower_from_the_base%2C_Auckland%2C_New_Zealand.jpg/1280px-Sky_Tower_from_the_base%2C_Auckland%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "source": "commons",
-   "id": "File:Sky Tower from the base, Auckland, New Zealand.jpg",
-   "artist": "Jonathan Harker",
-   "license": "CC0",
-   "page": "https://commons.wikimedia.org/wiki/File:Sky_Tower_from_the_base,_Auckland,_New_Zealand.jpg"
-  },
-  {
-   "src": "https://live.staticflickr.com/118/306940631_c926e65745_b.jpg",
-   "source": "openverse",
-   "id": "openverse:b6ae535e-a57f-4a7d-8039-2cda40c70c23",
-   "artist": "jcolman",
+   "id": "openverse:7c63ccaa-cf64-4fd9-bdd1-a842c8112fb6",
+   "artist": "Kath Halkett",
    "license": "CC BY-NC-ND 2.0",
-   "page": "https://www.flickr.com/photos/46956797@N00/306940631"
+   "page": "https://www.flickr.com/photos/40867899@N05/14807010745"
   },
   {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Sky_Tower%2C_Auckland_PA01.jpg/1280px-Sky_Tower%2C_Auckland_PA01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Westminster_tube_roundel_and_Elizabeth_Tower_2006-10-30.jpg/1280px-Westminster_tube_roundel_and_Elizabeth_Tower_2006-10-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "commons",
-   "id": "File:Sky Tower, Auckland PA01.jpg",
-   "artist": "Paora",
-   "license": "CC0",
-   "page": "https://commons.wikimedia.org/wiki/File:Sky_Tower,_Auckland_PA01.jpg"
+   "id": "File:Westminster tube roundel and Elizabeth Tower 2006-10-30.jpg",
+   "artist": "wellybob_dont_jump",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Westminster_tube_roundel_and_Elizabeth_Tower_2006-10-30.jpg"
   },
   {
-   "src": "https://live.staticflickr.com/52/108572837_3522e615eb_b.jpg",
+   "src": "https://live.staticflickr.com/5247/5353019187_d71c6b933e_b.jpg",
    "source": "openverse",
-   "id": "openverse:ab83fa15-2fdb-4bdc-9341-67df4aee4087",
-   "artist": "stevecadman",
-   "license": "CC BY-SA 2.0",
-   "page": "https://www.flickr.com/photos/98115025@N00/108572837"
+   "id": "openverse:80aa1687-a0bf-476d-b2b9-859e0717368e",
+   "artist": "Jason Pratt",
+   "license": "CC BY 2.0",
+   "page": "https://www.flickr.com/photos/84108876@N00/5353019187"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Sky_Soldier%2C_New_York_City_Native%2C_Reflects_on_9-11_%289290220%29.jpg/1280px-Sky_Soldier%2C_New_York_City_Native%2C_Reflects_on_9-11_%289290220%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Sky Soldier, New York City Native, Reflects on 9-11 (9290220).jpg",
+   "artist": "U.S. Army 173IBCT-A by Sgt. Jose Lora",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Sky_Soldier,_New_York_City_Native,_Reflects_on_9-11_(9290220).jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/1046/1487871765_f49145084f_b.jpg",
+   "source": "openverse",
+   "id": "openverse:e7617e6e-80a6-4cbc-859d-c4454479d047",
+   "artist": "Ewan McIntosh",
+   "license": "CC BY-NC 2.0",
+   "page": "https://www.flickr.com/photos/91712888@N00/1487871765"
   }
  ],
  "akl:Waiheke Island wineries": [
