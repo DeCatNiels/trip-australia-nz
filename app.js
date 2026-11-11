@@ -136,6 +136,47 @@ if (window.L) {
 } else {
   document.getElementById("map").hidden = true;
 }
+// NZ week plans (nzplans.js): one button per plan; the chosen one is drawn on the map with its days listed below.
+const planBtns = document.getElementById("planBtns"), planInfo = document.getElementById("planInfo");
+let shownPlan = null;
+if (window.L && map) {
+  // Drive-time labels only on lines long enough on screen, so they don't pile up around Auckland and Queenstown
+  const labelled = [];
+  const fitLabels = () => labelled.forEach(line => {
+    const [p, q] = line.getLatLngs().map(ll => map.latLngToLayerPoint(ll));
+    p.distanceTo(q) > 110 ? line.openTooltip() : line.closeTooltip();
+  });
+  map.on("zoomend", fitLabels);
+  const layers = Object.fromEntries(NZ_PLANS.map(plan => {
+    const layer = L.layerGroup(), at = n => plan.stops.find(p => p.n === n).at;
+    plan.legs.forEach(([a, b, time, dayTrip]) => {
+      const line = L.polyline([at(a), at(b)], { color: plan.color, weight: dayTrip ? 3 : 4, opacity: .85, dashArray: dayTrip ? "6 8" : null }).addTo(layer);
+      if (time) labelled.push(line.bindTooltip(time, { permanent: true, direction: "center", className: "drive-label" }));
+    });
+    plan.stops.forEach(p => L.marker(p.at, { zIndexOffset: 1000, icon: L.divIcon({
+        className: "plan-pin", html: `<span style="background:${plan.color}">${p.n}</span>`, iconSize: [24, 24], iconAnchor: [12, 12] }) })
+      .bindTooltip(`<b>${p.n}. ${esc(p.name)}</b><br>${esc(p.when)}`).addTo(layer));
+    return [plan.id, layer];
+  }));
+  planBtns.insertAdjacentHTML("beforeend", NZ_PLANS.map(p => `<button data-plan="${p.id}" aria-pressed="false"><i style="background:${p.color}"></i>${esc(p.label)}</button>`).join(""));
+  planBtns.addEventListener("click", e => {
+    const b = e.target.closest("button[data-plan]");
+    if (!b) return;
+    if (shownPlan) layers[shownPlan].remove();
+    shownPlan = shownPlan === b.dataset.plan ? null : b.dataset.plan;
+    planBtns.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x.dataset.plan === shownPlan));
+    const plan = NZ_PLANS.find(p => p.id === shownPlan);
+    planInfo.hidden = !plan;
+    if (!plan) return;
+    layers[plan.id].addTo(map);
+    map.fitBounds(L.latLngBounds(plan.stops.map(p => p.at)), { padding: [30, 30] });
+    fitLabels();
+    planInfo.style.borderColor = plan.color;
+    planInfo.innerHTML = `<p><b>${esc(plan.label)}</b>: ${esc(plan.summary)}</p><table>${plan.days.map(([d, what, sleep]) =>
+      `<tr><th>${esc(d)}</th><td>${esc(what)}</td><td class="sleep">${sleep ? "🛏 " + esc(sleep) : ""}</td></tr>`).join("")}</table>`;
+  });
+} else planBtns.hidden = true;
+
 function updateMarkers() {
   if (!map) return;
   for (const [id, m] of Object.entries(markers)) {

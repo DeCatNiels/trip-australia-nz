@@ -88,6 +88,19 @@ body.filtered .prep{display:none}
 .friend{position:absolute;top:8px;left:8px;font:700 .8rem "Atkinson Hyperlegible",sans-serif;
   color:#12263A;background:var(--sun);border-radius:999px;padding:3px 10px}
 #map{height:420px;border-radius:14px;border:1px solid var(--line);margin-bottom:16px;z-index:0}
+.plan-pin span{display:grid;place-items:center;width:24px;height:24px;border-radius:50%;
+  color:#fff;border:2px solid #fff;font:700 .8rem "Atkinson Hyperlegible",sans-serif;box-shadow:0 1px 4px rgba(0,0,0,.4)}
+.leaflet-tooltip.drive-label{background:#fff;color:#12263A;border:1px solid #9DB2C2;border-radius:999px;
+  padding:1px 7px;font:700 .75rem "Atkinson Hyperlegible",sans-serif;box-shadow:none}
+.leaflet-tooltip.drive-label::before{display:none}
+.bar.plans{margin-bottom:8px}
+.bar.plans i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px}
+.plan-info{background:var(--surface);border:2px solid var(--line);border-radius:14px;padding:12px 16px;margin:-6px 0 16px}
+.plan-info p{margin:0 0 8px}
+.plan-info table{border-collapse:collapse;width:100%}
+.plan-info th,.plan-info td{text-align:left;vertical-align:top;padding:4px 8px 4px 0;border-top:1px solid var(--line)}
+.plan-info th{white-space:nowrap}
+.plan-info .sleep{white-space:nowrap;color:var(--muted)}
 #map a{color:var(--ocean);font-weight:700}
 li.flash{outline:3px solid var(--sun);outline-offset:2px;transition:outline-color .3s}
 footer{margin-top:48px;color:var(--muted);font-size:.9rem}
