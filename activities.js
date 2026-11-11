@@ -1671,6 +1671,40 @@ window.STOPS = [
           -36.954,
           174.471
         ]
+      },
+      {
+        "name": "Rangitoto Island",
+        "emoji": "🌋",
+        "description": "The youngest volcano in the harbour, 25 minutes by ferry from downtown. About an hour's walk up through lava fields and pōhutukawa forest to the crater rim, with views back over the city.",
+        "link": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/auckland/places/rangitoto-island/",
+        "maps": "Rangitoto Island Summit",
+        "tags": [
+          "hike",
+          "nature"
+        ],
+        "wiki": "Rangitoto Island",
+        "search": "Rangitoto Island volcano",
+        "coords": [
+          -36.7865,
+          174.8604
+        ]
+      },
+      {
+        "name": "Waitākere Ranges walks",
+        "emoji": "🥾",
+        "description": "Rainforest and black-sand cliffs 45 minutes west of Auckland: climb Lion Rock above Piha, walk to Kitekite Falls, or loop along the Mercer Bay cliffs.",
+        "link": "https://www.aucklandcouncil.govt.nz/parks-recreation/get-outdoors/aklpaths/Pages/default.aspx",
+        "maps": "Kitekite Falls, Piha",
+        "tags": [
+          "hike",
+          "nature"
+        ],
+        "wiki": "Kitekite Falls",
+        "search": "Piha",
+        "coords": [
+          -36.9408,
+          174.4889
+        ]
       }
     ]
   },
@@ -1852,6 +1886,54 @@ window.STOPS = [
         "coords": [
           -38.649,
           176.09
+        ]
+      },
+      {
+        "name": "Kerosene Creek",
+        "emoji": "♨️",
+        "description": "A free natural hot stream with a small waterfall in the bush, next to Wai-O-Tapu.",
+        "maps": "Kerosene Creek, Rotorua",
+        "tags": [
+          "nature"
+        ],
+        "wiki": "Kerosene Creek",
+        "search": "Kerosene Creek hot stream Rotorua",
+        "coords": [
+          -38.3297,
+          176.3428
+        ]
+      },
+      {
+        "name": "Mount Maunganui summit",
+        "emoji": "⛰️",
+        "description": "About an hour up and down an extinct volcano by the sea, with a surf beach at the bottom. 40 minutes from Rotorua.",
+        "maps": "Mauao Summit, Mount Maunganui",
+        "tags": [
+          "hike",
+          "beach"
+        ],
+        "wiki": "Mount Maunganui",
+        "search": "Mount Maunganui",
+        "coords": [
+          -37.6322,
+          176.1716
+        ]
+      },
+      {
+        "name": "Karangahake Gorge",
+        "emoji": "⛏️",
+        "description": "Old gold-mining tunnels, swing bridges and a river gorge; the Windows Walk goes through the mine with a torch. Between Auckland and Rotorua.",
+        "link": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/coromandel/places/karangahake-historic-walkway/",
+        "maps": "Karangahake Gorge Historic Walkway",
+        "tags": [
+          "hike",
+          "sights"
+        ],
+        "wiki": "Karangahake Gorge",
+        "search": "Karangahake Gorge Windows Walk",
+        "coords": [
+          -37.4253,
+          175.7167
         ]
       }
     ]

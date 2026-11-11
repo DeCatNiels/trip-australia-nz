@@ -7891,6 +7891,14 @@ window.PHOTOS = {
    "page": "https://www.flickr.com/photos/51035744561@N01/8480559925"
   },
   {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Pete_and_Jos.jpg/1280px-Pete_and_Jos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Pete and Jos.jpg",
+   "artist": "Brysonrooney",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Pete_and_Jos.jpg"
+  },
+  {
    "src": "https://live.staticflickr.com/3859/14788049827_737fc35b5d_b.jpg",
    "source": "openverse",
    "id": "openverse:ae43d8b4-d144-4d3f-bd20-51e8ac2a977b",
@@ -9493,6 +9501,400 @@ window.PHOTOS = {
    "artist": "wattie",
    "license": "CC BY-NC-SA 2.0",
    "page": "https://www.flickr.com/photos/51035542510@N01/18424928380"
+  }
+ ],
+ "akl:Waitākere Ranges walks": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Kitekite_Falls%2C_Piha_%282013%29_04.jpg/1280px-Kitekite_Falls%2C_Piha_%282013%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Kitekite Falls, Piha (2013) 04.jpg",
+   "artist": "russellstreet",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kitekite_Falls,_Piha_(2013)_04.jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/8337/8166104608_bdc8d89e05_b.jpg",
+   "source": "openverse",
+   "id": "openverse:309e8a09-3e57-43d1-b09f-0a6656975f79",
+   "artist": "Chris Gin",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/27846493@N00/8166104608"
+  },
+  {
+   "src": "https://live.staticflickr.com/4339/36505009353_afaacca4eb_b.jpg",
+   "source": "openverse",
+   "id": "openverse:bd27d2c0-4a93-4cb4-9997-7d1e072acd2c",
+   "artist": "sandeepachetan.com",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/95012188@N02/36505009353"
+  },
+  {
+   "src": "https://live.staticflickr.com/5015/5470507434_f144767b9e_b.jpg",
+   "source": "openverse",
+   "id": "openverse:9883ecef-6b93-4df1-8a61-c3f625c3e6b2",
+   "artist": "Chris Gin",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/27846493@N00/5470507434"
+  },
+  {
+   "src": "https://live.staticflickr.com/1488/24718831956_0e5ce1e883_b.jpg",
+   "source": "openverse",
+   "id": "openverse:70a5ce82-b6bf-40aa-bbf3-bc765d00d34b",
+   "artist": "thinkrorbot",
+   "license": "Public domain",
+   "page": "https://www.flickr.com/photos/134921587@N06/24718831956"
+  },
+  {
+   "src": "https://live.staticflickr.com/65535/50580441503_e6301ca289_b.jpg",
+   "source": "openverse",
+   "id": "openverse:2c31c008-8f74-4a16-b829-73e7446632d7",
+   "artist": "Harald Philipp",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/65969414@N08/50580441503"
+  },
+  {
+   "src": "https://live.staticflickr.com/2545/4118562443_5656cddd67_b.jpg",
+   "source": "openverse",
+   "id": "openverse:d599fff8-39a6-43f5-bb84-e963dc4f5f86",
+   "artist": "Jon Baldock nz",
+   "license": "CC BY-NC-SA 2.0",
+   "page": "https://www.flickr.com/photos/31579265@N07/4118562443"
+  }
+ ],
+ "rot:Mount Maunganui summit": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Walking_up_Mount_Maunganui_09_%285645002843%29.jpg/1280px-Walking_up_Mount_Maunganui_09_%285645002843%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Walking up Mount Maunganui 09 (5645002843).jpg",
+   "artist": "Ronnie Macdonald from Chelmsford, United Kingdom",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Walking_up_Mount_Maunganui_09_(5645002843).jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/7501/15837378468_1676a534b5_b.jpg",
+   "source": "openverse",
+   "id": "openverse:3e760394-6cb9-4cb7-b0f5-a1d26b3f8935",
+   "artist": "Archives New Zealand",
+   "license": "CC BY 2.0",
+   "page": "https://www.flickr.com/photos/35759981@N08/15837378468"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Mount_Maunganui_25.jpg/1280px-Mount_Maunganui_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Mount Maunganui 25.jpg",
+   "artist": "Schwede66",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Maunganui_25.jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/2612/3928433514_182ea2a75a_b.jpg",
+   "source": "openverse",
+   "id": "openverse:5d276b0d-82a4-481c-a74f-dc7dbb38dc60",
+   "artist": "DΕΠΠΙS",
+   "license": "CC BY-NC-SA 2.0",
+   "page": "https://www.flickr.com/photos/35845202@N00/3928433514"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/View_from_Mount_Maunganui_mountain.jpg/1280px-View_from_Mount_Maunganui_mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:View from Mount Maunganui mountain.jpg",
+   "artist": "Panamitsu",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:View_from_Mount_Maunganui_mountain.jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/1720/23724825729_6926a23f17_b.jpg",
+   "source": "openverse",
+   "id": "openverse:b4bd6bc8-dddc-48ac-9084-311fb326238e",
+   "artist": "steveod2007",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/8231788@N08/23724825729"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Maunganui_Road%2C_Mount_Maunganui%2C_2013_%2801%29.jpg/1280px-Maunganui_Road%2C_Mount_Maunganui%2C_2013_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Maunganui Road, Mount Maunganui, 2013 (01).jpg",
+   "artist": "Bahnfrend",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Maunganui_Road,_Mount_Maunganui,_2013_(01).jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/5261/5643876569_da82b8b00c_b.jpg",
+   "source": "openverse",
+   "id": "openverse:95d9dde6-57e0-42b2-8bf3-733dec75d2cd",
+   "artist": "Ronnie Macdonald",
+   "license": "CC BY 2.0",
+   "page": "https://www.flickr.com/photos/7332125@N04/5643876569"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mount_Maunganui_Main_Beach%2C_2013_%2802%29.jpg/1280px-Mount_Maunganui_Main_Beach%2C_2013_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Mount Maunganui Main Beach, 2013 (02).jpg",
+   "artist": "Bahnfrend",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Maunganui_Main_Beach,_2013_(02).jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/7167/6632553081_4c4157cd95_b.jpg",
+   "source": "openverse",
+   "id": "openverse:b3a71e89-fc0e-4028-a6af-22bff06d3d5c",
+   "artist": "donnierayjones",
+   "license": "CC BY 2.0",
+   "page": "https://www.flickr.com/photos/11946169@N00/6632553081"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Mount_Maunganui_Main_Beach%2C_2013_%2805%29.jpg/1280px-Mount_Maunganui_Main_Beach%2C_2013_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Mount Maunganui Main Beach, 2013 (05).jpg",
+   "artist": "Bahnfrend",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Mount_Maunganui_Main_Beach,_2013_(05).jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/3833/33409229736_633bfaef59_b.jpg",
+   "source": "openverse",
+   "id": "openverse:1b1191cd-1c12-411f-9f49-c6efa53d4455",
+   "artist": "uphillblok",
+   "license": "CC BY-SA 2.0",
+   "page": "https://www.flickr.com/photos/35803445@N07/33409229736"
+  }
+ ],
+ "akl:Rangitoto Island": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Rangitoto09f.jpg/1280px-Rangitoto09f.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Rangitoto09f.jpg",
+   "artist": "Bruce Hayward",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Rangitoto09f.jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/4436/36854757242_754e59e39f_b.jpg",
+   "source": "openverse",
+   "id": "openverse:0dd9c41b-5cf8-4a74-813e-c6a3fb35c4a0",
+   "artist": "Mary Gillham Archive Project",
+   "license": "CC BY 2.0",
+   "page": "https://www.flickr.com/photos/139791896@N06/36854757242"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Browns_Island_viewed_from_Rangitoto_Island_%2821618654001%29.jpg/1280px-Browns_Island_viewed_from_Rangitoto_Island_%2821618654001%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Browns Island viewed from Rangitoto Island (21618654001).jpg",
+   "artist": "National Library NZ on The Commons",
+   "license": "No restrictions",
+   "page": "https://commons.wikimedia.org/wiki/File:Browns_Island_viewed_from_Rangitoto_Island_(21618654001).jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/3024/2740175257_604b64c547_b.jpg",
+   "source": "openverse",
+   "id": "openverse:05a6b894-857a-430d-9db1-e73667816b23",
+   "artist": "Chris Gin",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/27846493@N00/2740175257"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Rangitoto_from_Mount_Victoria_%28Takarunga%29%2C_28_November_2025.jpg/1280px-Rangitoto_from_Mount_Victoria_%28Takarunga%29%2C_28_November_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Rangitoto from Mount Victoria (Takarunga), 28 November 2025.jpg",
+   "artist": "Danny William Wilson",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Rangitoto_from_Mount_Victoria_(Takarunga),_28_November_2025.jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/8046/29041221696_5355ab2f28_b.jpg",
+   "source": "openverse",
+   "id": "openverse:f63eb36c-41bb-44d5-b7d4-4d36fd10f547",
+   "artist": "Kiwi Tom",
+   "license": "CC BY 2.0",
+   "page": "https://www.flickr.com/photos/127665714@N08/29041221696"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Goodbye_Rangitoto_%288470891372%29.jpg/1280px-Goodbye_Rangitoto_%288470891372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Goodbye Rangitoto (8470891372).jpg",
+   "artist": "portengaround",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Goodbye_Rangitoto_(8470891372).jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/36/108364097_f5652e402d_b.jpg",
+   "source": "openverse",
+   "id": "openverse:f20eec70-59b5-4274-b3e0-5c31e9b3139a",
+   "artist": "Kiwi Mikex",
+   "license": "CC BY-ND 2.0",
+   "page": "https://www.flickr.com/photos/37496740@N00/108364097"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Volcano_Under_the_Pohutukawa_%2815358219635%29.jpg/1280px-Volcano_Under_the_Pohutukawa_%2815358219635%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Volcano Under the Pohutukawa (15358219635).jpg",
+   "artist": "cogdogblog",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Volcano_Under_the_Pohutukawa_(15358219635).jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/2188/2369773604_435f15d32d_b.jpg",
+   "source": "openverse",
+   "id": "openverse:41b19e57-09bf-4ae1-888b-70ad928a4ebc",
+   "artist": "Light Knight",
+   "license": "CC BY-NC-ND 2.0",
+   "page": "https://www.flickr.com/photos/8179532@N03/2369773604"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/-panoramic_view_of_waitemat%C4%81_harbour_looking_westward_from_the_summit_of_rangitoto-_%2852691188787%29.jpg/1280px--panoramic_view_of_waitemat%C4%81_harbour_looking_westward_from_the_summit_of_rangitoto-_%2852691188787%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:-panoramic view of waitematā harbour looking westward from the summit of rangitoto- (52691188787).jpg",
+   "artist": "Auckland Museum Collections from Auckland, Aotearoa New Zealand",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:-panoramic_view_of_waitemat%C4%81_harbour_looking_westward_from_the_summit_of_rangitoto-_(52691188787).jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/5/6242076_7cdfeda7b3_b.jpg",
+   "source": "openverse",
+   "id": "openverse:36c3a42c-6149-41d4-8afc-0bc33f15d152",
+   "artist": "In Memoriam: PhillipC",
+   "license": "CC BY 2.0",
+   "page": "https://www.flickr.com/photos/42033648@N00/6242076"
+  }
+ ],
+ "rot:Kerosene Creek": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Kerosene_Creek%2C_Geothermal_Hot_Waterfall_%2831904686743%29.jpg/1280px-Kerosene_Creek%2C_Geothermal_Hot_Waterfall_%2831904686743%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Kerosene Creek, Geothermal Hot Waterfall (31904686743).jpg",
+   "artist": "Brendan Purdy",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kerosene_Creek,_Geothermal_Hot_Waterfall_(31904686743).jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/65535/51898007123_54e017dfee_b.jpg",
+   "source": "openverse",
+   "id": "openverse:ffe64051-0497-4b2e-ac8d-4e7324f553e8",
+   "artist": "Juhele_CZ",
+   "license": "CC0",
+   "page": "https://www.flickr.com/photos/96541566@N06/51898007123"
+  },
+  {
+   "src": "https://live.staticflickr.com/65535/51896955302_1106de2c3d_b.jpg",
+   "source": "openverse",
+   "id": "openverse:7ead517a-a57c-4912-88f3-aba85f52ce91",
+   "artist": "Juhele_CZ",
+   "license": "CC0",
+   "page": "https://www.flickr.com/photos/96541566@N06/51896955302"
+  },
+  {
+   "src": "https://live.staticflickr.com/65535/51897915596_9f1d7f51b1_b.jpg",
+   "source": "openverse",
+   "id": "openverse:ba7c9908-7ec2-447e-9546-558919eeb5bf",
+   "artist": "Juhele_CZ",
+   "license": "CC0",
+   "page": "https://www.flickr.com/photos/96541566@N06/51897915596"
+  },
+  {
+   "src": "https://live.staticflickr.com/65535/51896954912_7507b9ba16_b.jpg",
+   "source": "openverse",
+   "id": "openverse:eec8654d-5268-4528-84ac-11838f83f803",
+   "artist": "Juhele_CZ",
+   "license": "CC0",
+   "page": "https://www.flickr.com/photos/96541566@N06/51896954912"
+  }
+ ],
+ "rot:Karangahake Gorge": [
+  {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Modif_LR-004219906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "commons",
+   "id": "File:Modif LR-004219906.jpg",
+   "artist": "JLDAUSSY",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Modif_LR-004219906.jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/8308/7855463224_2172785c5a_b.jpg",
+   "source": "openverse",
+   "id": "openverse:8e42ed7e-a720-428f-ad55-7e867ffe9df3",
+   "artist": "ali_gata1970",
+   "license": "CC BY 2.0",
+   "page": "https://www.flickr.com/photos/16309307@N04/7855463224"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Mine_shaft_towards_window_on_Windows_Walk_in_the_Karangahake_Gorge.jpg/1280px-Mine_shaft_towards_window_on_Windows_Walk_in_the_Karangahake_Gorge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Mine shaft towards window on Windows Walk in the Karangahake Gorge.jpg",
+   "artist": "Pseudopanax at English Wikipedia",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Mine_shaft_towards_window_on_Windows_Walk_in_the_Karangahake_Gorge.jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/8497/8320708066_b06ea8279b_b.jpg",
+   "source": "openverse",
+   "id": "openverse:91df6865-21fb-4360-ab9d-1ebd7b16814e",
+   "artist": "deepwarren",
+   "license": "CC BY-NC-SA 2.0",
+   "page": "https://www.flickr.com/photos/20998477@N00/8320708066"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Mining_railway_tracks_in_tunnel_towards_window_on_Windows_Walk_in_the_Karangahake_Gorge.jpg/1280px-Mining_railway_tracks_in_tunnel_towards_window_on_Windows_Walk_in_the_Karangahake_Gorge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Mining railway tracks in tunnel towards window on Windows Walk in the Karangahake Gorge.jpg",
+   "artist": "Pseudopanax at English Wikipedia",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Mining_railway_tracks_in_tunnel_towards_window_on_Windows_Walk_in_the_Karangahake_Gorge.jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/4397/36688396961_0a4e2166dd_b.jpg",
+   "source": "openverse",
+   "id": "openverse:0eacff9a-56db-468e-ac6f-4ff2c720580b",
+   "artist": "washuugenius",
+   "license": "CC BY-NC-SA 2.0",
+   "page": "https://www.flickr.com/photos/92996378@N00/36688396961"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Mining_railway_tracks_through_tunnel_along_Windows_Walk_in_the_Karangahake_Gorge.jpg/1280px-Mining_railway_tracks_through_tunnel_along_Windows_Walk_in_the_Karangahake_Gorge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Mining railway tracks through tunnel along Windows Walk in the Karangahake Gorge.jpg",
+   "artist": "Pseudopanax at English Wikipedia",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Mining_railway_tracks_through_tunnel_along_Windows_Walk_in_the_Karangahake_Gorge.jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/4346/36657507302_a1295a7ffe_b.jpg",
+   "source": "openverse",
+   "id": "openverse:3cb9bea1-1fcf-4800-9b7f-3c69e850259f",
+   "artist": "washuugenius",
+   "license": "CC BY-NC-SA 2.0",
+   "page": "https://www.flickr.com/photos/92996378@N00/36657507302"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Mining_railway_tracks_in_tunnel_going_past_a_window_along_Windows_Walk_in_the_Karangahake_Gorge.jpg/1280px-Mining_railway_tracks_in_tunnel_going_past_a_window_along_Windows_Walk_in_the_Karangahake_Gorge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "commons",
+   "id": "File:Mining railway tracks in tunnel going past a window along Windows Walk in the Karangahake Gorge.jpg",
+   "artist": "Pseudopanax at English Wikipedia",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Mining_railway_tracks_in_tunnel_going_past_a_window_along_Windows_Walk_in_the_Karangahake_Gorge.jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/4396/35993859984_5731db360a_b.jpg",
+   "source": "openverse",
+   "id": "openverse:b0528e03-7427-4324-917c-9a5381e9ef64",
+   "artist": "washuugenius",
+   "license": "CC BY-NC-SA 2.0",
+   "page": "https://www.flickr.com/photos/92996378@N00/35993859984"
+  },
+  {
+   "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Karangahake_Gorge_Battery_Area_Photos_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "commons",
+   "id": "File:Karangahake Gorge Battery Area Photos 04.jpg",
+   "artist": "Ingolfson",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Karangahake_Gorge_Battery_Area_Photos_04.jpg"
+  },
+  {
+   "src": "https://live.staticflickr.com/65535/53552513446_b360d691cd_b.jpg",
+   "source": "openverse",
+   "id": "openverse:a1cec209-bbd4-4903-9600-d85bf3e87cc5",
+   "artist": "RobiNZ",
+   "license": "CC BY-NC 2.0",
+   "page": "https://www.flickr.com/photos/48816143@N00/53552513446"
   }
  ]
 };
